@@ -1,0 +1,15 @@
+[project]
+name = "hiring-needs-analysis"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.11.0",
+    "pandas>=3.0.3",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.3.0",
+    "jupyterlab>=4.6.1",
+    "ruff>=0.15.22",
+]
