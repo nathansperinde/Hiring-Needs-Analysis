@@ -1,0 +1,98 @@
+First Structure:
+
+Hiring-Needs-Analysis/
+│
+├── .venv/
+│
+├── data/
+│   ├── raw/
+│   │   ├── historico_acoes.xlsx
+│   │   ├── info_formacoes.xlsx
+│   │   ├── leads.xlsx
+│   │   ├── vendas.xlsx
+│   │   └── base_formadores.xlsx
+│   │
+│   └── clean/
+│
+├── notebooks/
+│   ├── 01_data_preparation.ipynb
+│   ├── 02_workforce_analysis.ipynb
+│   ├── 03_actions_analysis.ipynb
+│   ├── 04_commercial_analysis.ipynb
+│   └── 05_hiring_needs_analysis.ipynb
+│
+├── reports/
+│   └── figures/
+│
+├── .gitignore
+├── .python-version
+├── pyproject.toml
+├── uv.lock
+├── README.md
+└── LICENSE
+
+
+
+Final Structure:
+
+Hiring-Needs-Analysis/
+│
+├── .venv/
+│
+├── data/
+│   ├── raw/
+│   ├── clean/
+│   ├── features/
+│   │   ├── workforce_features.csv
+│   │   ├── actions_features.csv
+│   │   ├── commercial_features.csv
+│   │   └── hiring_needs_features.csv
+│   │
+│   └── outputs/
+│       ├── hiring_needs_results.csv
+│       ├── hiring_needs_by_course.csv
+│       └── hiring_needs_by_location.csv
+│
+├── notebooks/
+│   ├── 01_data_preparation.ipynb
+│   ├── 02_workforce_analysis.ipynb
+│   ├── 03_actions_analysis.ipynb
+│   ├── 04_commercial_analysis.ipynb
+│   ├── 05_hiring_needs_analysis.ipynb
+│   └── 06_results_and_recommendations.ipynb
+│
+├── src/
+│   └── hiring_needs/
+│       ├── __init__.py
+│       ├── paths.py
+│       ├── validation.py
+│       ├── preparation.py
+│       ├── workforce.py
+│       ├── actions.py
+│       ├── commercial.py
+│       ├── hiring_needs.py
+│       └── visualization.py
+│
+├── tests/
+│   ├── test_validation.py
+│   ├── test_workforce.py
+│   ├── test_actions.py
+│   ├── test_commercial.py
+│   └── test_hiring_needs.py
+│
+├── reports/
+│   ├── figures/
+│   ├── tables/
+│   └── final_report.md
+│
+├── scripts/
+│   ├── prepare_data.py
+│   ├── build_features.py
+│   └── run_pipeline.py
+│
+├── .gitignore
+├── .python-version
+├── pyproject.toml
+├── uv.lock
+├── README.md
+└── LICENSE

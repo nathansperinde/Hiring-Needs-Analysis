@@ -1,0 +1,25 @@
+course_id,course_name,course_area,total_hours,active
+CYB,Cibersegurança Básica,Informática,16,True
+EMP,Empilhadores e Movimentação de Cargas,Segurança,16,True
+EXC,Excel Aplicado à Gestão,Informática,20,True
+FOR,Formação Pedagógica Inicial de Formadores,Formação,90,True
+GER,Geriatria e Apoio ao Idoso,Saúde,50,True
+GES,Gestão de Equipas,Gestão,16,True
+HAC,Higiene e Segurança Alimentar,Alimentar,8,True
+HCP,HACCP Aplicado,Alimentar,12,True
+HOT,Housekeeping e Operações Hoteleiras,Turismo,25,True
+INF,"Infeção, Prevenção e Controlo",Saúde,16,True
+ING,Inglês Profissional,Línguas,30,True
+LID,Liderança e Comunicação,Gestão,16,True
+LOG,Logística e Gestão de Armazém,Logística,16,True
+MNT,Manutenção Industrial Básica,Manutenção,25,True
+PBI,Power BI e Visualização de Dados,Informática,25,True
+PRI,Primeiros Socorros,Saúde e Segurança,12,True
+PRO,Gestão de Projetos,Gestão,25,True
+PYT,Introdução à Programação em Python,Informática,30,True
+SCI,Segurança Contra Incêndios,Segurança,8,True
+SEG,Segurança no Trabalho,Segurança,8,True
+SOC,Socorrismo Básico,Saúde e Segurança,16,True
+SST,Saúde e Segurança no Trabalho,Segurança,16,True
+TUR,Atendimento Turístico,Turismo,16,True
+VND,Vendas e Negociação,Comercial,16,True
