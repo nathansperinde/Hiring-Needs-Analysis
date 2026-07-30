@@ -1,0 +1,121 @@
+course_id,course_name,course_area,local,trainer_count,pct_multicourse_trainers,pct_mobile_trainers,relative_scarcity_score,relative_scarcity_contribution,course_sharing_contribution,location_sharing_contribution,workforce_base_score,workforce_score_percentile,workforce_vulnerability_tier,workforce_main_risk_driver,workforce_base_priority_rank
+HOT,Housekeeping e Operações Hoteleiras,Turismo,Centro 3,2,100.0,50.0,86.7,52.0,20.0,10.0,82.0,97.9,High,Trainer scarcity,1
+TUR,Atendimento Turístico,Turismo,Centro 4,2,100.0,50.0,86.7,52.0,20.0,10.0,82.0,97.9,High,Trainer scarcity,1
+EMP,Empilhadores e Movimentação de Cargas,Segurança,Centro 2,2,100.0,50.0,86.7,52.0,20.0,10.0,82.0,97.9,High,Trainer scarcity,1
+SST,Saúde e Segurança no Trabalho,Segurança,Centro 1,2,100.0,50.0,86.7,52.0,20.0,10.0,82.0,97.9,High,Trainer scarcity,1
+ING,Inglês Profissional,Línguas,Centro 4,2,100.0,50.0,86.7,52.0,20.0,10.0,82.0,97.9,High,Trainer scarcity,1
+LOG,Logística e Gestão de Armazém,Logística,Centro 5,2,100.0,50.0,86.7,52.0,20.0,10.0,82.0,97.9,High,Trainer scarcity,1
+VND,Vendas e Negociação,Comercial,Centro 5,2,100.0,0.0,86.7,52.0,20.0,0.0,72.0,89.2,Upper-middle,Trainer scarcity,2
+MNT,Manutenção Industrial Básica,Manutenção,Centro 1,2,100.0,0.0,86.7,52.0,20.0,0.0,72.0,89.2,Upper-middle,Trainer scarcity,2
+HCP,HACCP Aplicado,Alimentar,Centro 5,2,50.0,50.0,86.7,52.0,10.0,10.0,72.0,89.2,Upper-middle,Trainer scarcity,2
+HOT,Housekeeping e Operações Hoteleiras,Turismo,Centro 5,2,100.0,0.0,86.7,52.0,20.0,0.0,72.0,89.2,Upper-middle,Trainer scarcity,2
+INF,"Infeção, Prevenção e Controlo",Saúde,Centro 1,2,100.0,0.0,86.7,52.0,20.0,0.0,72.0,89.2,Upper-middle,Trainer scarcity,2
+INF,"Infeção, Prevenção e Controlo",Saúde,Centro 3,2,100.0,0.0,86.7,52.0,20.0,0.0,72.0,89.2,Upper-middle,Trainer scarcity,2
+PRI,Primeiros Socorros,Saúde e Segurança,Centro 4,2,100.0,0.0,86.7,52.0,20.0,0.0,72.0,89.2,Upper-middle,Trainer scarcity,2
+GES,Gestão de Equipas,Gestão,Centro 3,2,100.0,0.0,86.7,52.0,20.0,0.0,72.0,89.2,Upper-middle,Trainer scarcity,2
+SEG,Segurança no Trabalho,Segurança,Centro 1,2,100.0,0.0,86.7,52.0,20.0,0.0,72.0,89.2,Upper-middle,Trainer scarcity,2
+EMP,Empilhadores e Movimentação de Cargas,Segurança,Centro 5,2,50.0,50.0,86.7,52.0,10.0,10.0,72.0,89.2,Upper-middle,Trainer scarcity,2
+SOC,Socorrismo Básico,Saúde e Segurança,Centro 3,2,50.0,50.0,86.7,52.0,10.0,10.0,72.0,89.2,Upper-middle,Trainer scarcity,2
+TUR,Atendimento Turístico,Turismo,Centro 2,2,100.0,0.0,86.7,52.0,20.0,0.0,72.0,89.2,Upper-middle,Trainer scarcity,2
+TUR,Atendimento Turístico,Turismo,Centro 5,2,100.0,0.0,86.7,52.0,20.0,0.0,72.0,89.2,Upper-middle,Trainer scarcity,2
+VND,Vendas e Negociação,Comercial,Centro 4,2,100.0,0.0,86.7,52.0,20.0,0.0,72.0,89.2,Upper-middle,Trainer scarcity,2
+GES,Gestão de Equipas,Gestão,Centro 4,2,100.0,0.0,86.7,52.0,20.0,0.0,72.0,89.2,Upper-middle,Trainer scarcity,2
+LOG,Logística e Gestão de Armazém,Logística,Centro 2,3,100.0,66.7,60.0,36.0,20.0,13.3,69.3,81.2,Upper-middle,Trainer scarcity,3
+SEG,Segurança no Trabalho,Segurança,Centro 2,3,100.0,66.7,60.0,36.0,20.0,13.3,69.3,81.2,Upper-middle,Trainer scarcity,3
+HAC,Higiene e Segurança Alimentar,Alimentar,Centro 1,3,100.0,66.7,60.0,36.0,20.0,13.3,69.3,81.2,Upper-middle,Trainer scarcity,3
+CYB,Cibersegurança Básica,Informática,Centro 1,3,100.0,66.7,60.0,36.0,20.0,13.3,69.3,81.2,Upper-middle,Trainer scarcity,3
+FOR,Formação Pedagógica Inicial de Formadores,Formação,Centro 3,3,100.0,33.3,60.0,36.0,20.0,6.7,62.7,77.5,Upper-middle,Trainer scarcity,4
+SST,Saúde e Segurança no Trabalho,Segurança,Centro 4,3,100.0,33.3,60.0,36.0,20.0,6.7,62.7,77.5,Upper-middle,Trainer scarcity,4
+PBI,Power BI e Visualização de Dados,Informática,Centro 5,3,100.0,33.3,60.0,36.0,20.0,6.7,62.7,77.5,Upper-middle,Trainer scarcity,4
+LID,Liderança e Comunicação,Gestão,Centro 5,3,100.0,33.3,60.0,36.0,20.0,6.7,62.7,77.5,Upper-middle,Trainer scarcity,4
+PYT,Introdução à Programação em Python,Informática,Centro 1,3,100.0,33.3,60.0,36.0,20.0,6.7,62.7,77.5,Upper-middle,Trainer scarcity,4
+PYT,Introdução à Programação em Python,Informática,Centro 3,3,66.7,66.7,60.0,36.0,13.3,13.3,62.6,74.2,Upper-middle,Trainer scarcity,5
+SEG,Segurança no Trabalho,Segurança,Centro 5,3,66.7,66.7,60.0,36.0,13.3,13.3,62.6,74.2,Upper-middle,Trainer scarcity,5
+MNT,Manutenção Industrial Básica,Manutenção,Centro 5,3,66.7,66.7,60.0,36.0,13.3,13.3,62.6,74.2,Upper-middle,Trainer scarcity,5
+HAC,Higiene e Segurança Alimentar,Alimentar,Centro 4,2,50.0,0.0,86.7,52.0,10.0,0.0,62.0,68.3,Upper-middle,Trainer scarcity,6
+LID,Liderança e Comunicação,Gestão,Centro 4,2,50.0,0.0,86.7,52.0,10.0,0.0,62.0,68.3,Upper-middle,Trainer scarcity,6
+INF,"Infeção, Prevenção e Controlo",Saúde,Centro 4,2,50.0,0.0,86.7,52.0,10.0,0.0,62.0,68.3,Upper-middle,Trainer scarcity,6
+SCI,Segurança Contra Incêndios,Segurança,Centro 4,2,50.0,0.0,86.7,52.0,10.0,0.0,62.0,68.3,Upper-middle,Trainer scarcity,6
+SCI,Segurança Contra Incêndios,Segurança,Centro 5,2,50.0,0.0,86.7,52.0,10.0,0.0,62.0,68.3,Upper-middle,Trainer scarcity,6
+TUR,Atendimento Turístico,Turismo,Centro 1,2,50.0,0.0,86.7,52.0,10.0,0.0,62.0,68.3,Upper-middle,Trainer scarcity,6
+HOT,Housekeeping e Operações Hoteleiras,Turismo,Centro 2,2,50.0,0.0,86.7,52.0,10.0,0.0,62.0,68.3,Upper-middle,Trainer scarcity,6
+HCP,HACCP Aplicado,Alimentar,Centro 4,2,50.0,0.0,86.7,52.0,10.0,0.0,62.0,68.3,Upper-middle,Trainer scarcity,6
+SOC,Socorrismo Básico,Saúde e Segurança,Centro 4,2,50.0,0.0,86.7,52.0,10.0,0.0,62.0,68.3,Upper-middle,Trainer scarcity,6
+SOC,Socorrismo Básico,Saúde e Segurança,Centro 5,2,50.0,0.0,86.7,52.0,10.0,0.0,62.0,68.3,Upper-middle,Trainer scarcity,6
+SCI,Segurança Contra Incêndios,Segurança,Centro 2,2,50.0,0.0,86.7,52.0,10.0,0.0,62.0,68.3,Upper-middle,Trainer scarcity,6
+SCI,Segurança Contra Incêndios,Segurança,Centro 1,3,100.0,0.0,60.0,36.0,20.0,0.0,56.0,58.8,Upper-middle,Trainer scarcity,7
+PYT,Introdução à Programação em Python,Informática,Centro 2,3,100.0,0.0,60.0,36.0,20.0,0.0,56.0,58.8,Upper-middle,Trainer scarcity,7
+GER,Geriatria e Apoio ao Idoso,Saúde,Centro 3,3,100.0,0.0,60.0,36.0,20.0,0.0,56.0,58.8,Upper-middle,Trainer scarcity,7
+PRI,Primeiros Socorros,Saúde e Segurança,Centro 3,3,100.0,0.0,60.0,36.0,20.0,0.0,56.0,58.8,Upper-middle,Trainer scarcity,7
+GER,Geriatria e Apoio ao Idoso,Saúde,Centro 4,3,100.0,0.0,60.0,36.0,20.0,0.0,56.0,58.8,Upper-middle,Trainer scarcity,7
+PYT,Introdução à Programação em Python,Informática,Centro 4,3,66.7,33.3,60.0,36.0,13.3,6.7,56.0,58.8,Upper-middle,Trainer scarcity,7
+GES,Gestão de Equipas,Gestão,Centro 2,3,100.0,0.0,60.0,36.0,20.0,0.0,56.0,58.8,Upper-middle,Trainer scarcity,7
+PRO,Gestão de Projetos,Gestão,Centro 4,3,100.0,0.0,60.0,36.0,20.0,0.0,56.0,58.8,Upper-middle,Trainer scarcity,7
+EXC,Excel Aplicado à Gestão,Informática,Centro 1,3,66.7,33.3,60.0,36.0,13.3,6.7,56.0,58.8,Upper-middle,Trainer scarcity,7
+SEG,Segurança no Trabalho,Segurança,Centro 3,3,66.7,33.3,60.0,36.0,13.3,6.7,56.0,58.8,Upper-middle,Trainer scarcity,7
+HOT,Housekeeping e Operações Hoteleiras,Turismo,Centro 1,3,100.0,0.0,60.0,36.0,20.0,0.0,56.0,58.8,Upper-middle,Trainer scarcity,7
+PRI,Primeiros Socorros,Saúde e Segurança,Centro 1,3,100.0,0.0,60.0,36.0,20.0,0.0,56.0,58.8,Upper-middle,Trainer scarcity,7
+SOC,Socorrismo Básico,Saúde e Segurança,Centro 1,2,0.0,0.0,86.7,52.0,0.0,0.0,52.0,53.3,Upper-middle,Trainer scarcity,8
+SST,Saúde e Segurança no Trabalho,Segurança,Centro 2,4,100.0,75.0,24.6,14.8,20.0,15.0,49.8,52.1,Lower-middle,Multicourse trainers,9
+PRO,Gestão de Projetos,Gestão,Centro 1,4,100.0,75.0,24.6,14.8,20.0,15.0,49.8,52.1,Lower-middle,Multicourse trainers,9
+EXC,Excel Aplicado à Gestão,Informática,Centro 2,3,33.3,33.3,60.0,36.0,6.7,6.7,49.4,50.8,Lower-middle,Trainer scarcity,10
+EXC,Excel Aplicado à Gestão,Informática,Centro 4,3,66.7,0.0,60.0,36.0,13.3,0.0,49.3,47.9,Lower-middle,Trainer scarcity,11
+PRO,Gestão de Projetos,Gestão,Centro 2,3,66.7,0.0,60.0,36.0,13.3,0.0,49.3,47.9,Lower-middle,Trainer scarcity,11
+LOG,Logística e Gestão de Armazém,Logística,Centro 1,3,66.7,0.0,60.0,36.0,13.3,0.0,49.3,47.9,Lower-middle,Trainer scarcity,11
+CYB,Cibersegurança Básica,Informática,Centro 2,3,66.7,0.0,60.0,36.0,13.3,0.0,49.3,47.9,Lower-middle,Trainer scarcity,11
+LID,Liderança e Comunicação,Gestão,Centro 3,3,66.7,0.0,60.0,36.0,13.3,0.0,49.3,47.9,Lower-middle,Trainer scarcity,11
+FOR,Formação Pedagógica Inicial de Formadores,Formação,Centro 2,3,66.7,0.0,60.0,36.0,13.3,0.0,49.3,47.9,Lower-middle,Trainer scarcity,11
+PRO,Gestão de Projetos,Gestão,Centro 5,4,100.0,50.0,24.6,14.8,20.0,10.0,44.8,41.7,Lower-middle,Multicourse trainers,12
+SST,Saúde e Segurança no Trabalho,Segurança,Centro 5,4,100.0,50.0,24.6,14.8,20.0,10.0,44.8,41.7,Lower-middle,Multicourse trainers,12
+CYB,Cibersegurança Básica,Informática,Centro 3,4,100.0,50.0,24.6,14.8,20.0,10.0,44.8,41.7,Lower-middle,Multicourse trainers,12
+PYT,Introdução à Programação em Python,Informática,Centro 5,4,100.0,50.0,24.6,14.8,20.0,10.0,44.8,41.7,Lower-middle,Multicourse trainers,12
+PBI,Power BI e Visualização de Dados,Informática,Centro 3,4,100.0,50.0,24.6,14.8,20.0,10.0,44.8,41.7,Lower-middle,Multicourse trainers,12
+HAC,Higiene e Segurança Alimentar,Alimentar,Centro 3,4,100.0,50.0,24.6,14.8,20.0,10.0,44.8,41.7,Lower-middle,Multicourse trainers,12
+HCP,HACCP Aplicado,Alimentar,Centro 3,4,100.0,50.0,24.6,14.8,20.0,10.0,44.8,41.7,Lower-middle,Multicourse trainers,12
+FOR,Formação Pedagógica Inicial de Formadores,Formação,Centro 1,4,100.0,50.0,24.6,14.8,20.0,10.0,44.8,41.7,Lower-middle,Multicourse trainers,12
+HCP,HACCP Aplicado,Alimentar,Centro 2,4,100.0,50.0,24.6,14.8,20.0,10.0,44.8,41.7,Lower-middle,Multicourse trainers,12
+FOR,Formação Pedagógica Inicial de Formadores,Formação,Centro 5,4,100.0,25.0,24.6,14.8,20.0,5.0,39.8,28.3,Lower-middle,Multicourse trainers,13
+GER,Geriatria e Apoio ao Idoso,Saúde,Centro 2,4,100.0,25.0,24.6,14.8,20.0,5.0,39.8,28.3,Lower-middle,Multicourse trainers,13
+EMP,Empilhadores e Movimentação de Cargas,Segurança,Centro 4,4,100.0,25.0,24.6,14.8,20.0,5.0,39.8,28.3,Lower-middle,Multicourse trainers,13
+HCP,HACCP Aplicado,Alimentar,Centro 1,4,100.0,25.0,24.6,14.8,20.0,5.0,39.8,28.3,Lower-middle,Multicourse trainers,13
+GES,Gestão de Equipas,Gestão,Centro 5,4,100.0,25.0,24.6,14.8,20.0,5.0,39.8,28.3,Lower-middle,Multicourse trainers,13
+GER,Geriatria e Apoio ao Idoso,Saúde,Centro 1,4,100.0,25.0,24.6,14.8,20.0,5.0,39.8,28.3,Lower-middle,Multicourse trainers,13
+EMP,Empilhadores e Movimentação de Cargas,Segurança,Centro 1,4,100.0,25.0,24.6,14.8,20.0,5.0,39.8,28.3,Lower-middle,Multicourse trainers,13
+TUR,Atendimento Turístico,Turismo,Centro 3,4,100.0,25.0,24.6,14.8,20.0,5.0,39.8,28.3,Lower-middle,Multicourse trainers,13
+CYB,Cibersegurança Básica,Informática,Centro 5,4,100.0,25.0,24.6,14.8,20.0,5.0,39.8,28.3,Lower-middle,Multicourse trainers,13
+CYB,Cibersegurança Básica,Informática,Centro 4,4,100.0,25.0,24.6,14.8,20.0,5.0,39.8,28.3,Lower-middle,Multicourse trainers,13
+VND,Vendas e Negociação,Comercial,Centro 1,4,75.0,50.0,24.6,14.8,15.0,10.0,39.8,28.3,Lower-middle,Multicourse trainers,13
+VND,Vendas e Negociação,Comercial,Centro 2,4,100.0,25.0,24.6,14.8,20.0,5.0,39.8,28.3,Lower-middle,Multicourse trainers,13
+SEG,Segurança no Trabalho,Segurança,Centro 4,4,100.0,25.0,24.6,14.8,20.0,5.0,39.8,28.3,Lower-middle,Multicourse trainers,13
+GES,Gestão de Equipas,Gestão,Centro 1,4,100.0,25.0,24.6,14.8,20.0,5.0,39.8,28.3,Lower-middle,Multicourse trainers,13
+LOG,Logística e Gestão de Armazém,Logística,Centro 4,4,75.0,50.0,24.6,14.8,15.0,10.0,39.8,28.3,Lower-middle,Multicourse trainers,13
+PRO,Gestão de Projetos,Gestão,Centro 3,4,100.0,25.0,24.6,14.8,20.0,5.0,39.8,28.3,Lower-middle,Multicourse trainers,13
+MNT,Manutenção Industrial Básica,Manutenção,Centro 4,4,75.0,50.0,24.6,14.8,15.0,10.0,39.8,28.3,Lower-middle,Multicourse trainers,13
+MNT,Manutenção Industrial Básica,Manutenção,Centro 3,4,75.0,50.0,24.6,14.8,15.0,10.0,39.8,28.3,Lower-middle,Multicourse trainers,13
+PRI,Primeiros Socorros,Saúde e Segurança,Centro 2,4,100.0,25.0,24.6,14.8,20.0,5.0,39.8,28.3,Lower-middle,Multicourse trainers,13
+MNT,Manutenção Industrial Básica,Manutenção,Centro 2,4,75.0,50.0,24.6,14.8,15.0,10.0,39.8,28.3,Lower-middle,Multicourse trainers,13
+EXC,Excel Aplicado à Gestão,Informática,Centro 3,4,50.0,75.0,24.6,14.8,10.0,15.0,39.8,28.3,Lower-middle,Mobile trainers,13
+ING,Inglês Profissional,Línguas,Centro 3,4,75.0,50.0,24.6,14.8,15.0,10.0,39.8,28.3,Lower-middle,Multicourse trainers,13
+LID,Liderança e Comunicação,Gestão,Centro 1,4,75.0,50.0,24.6,14.8,15.0,10.0,39.8,28.3,Lower-middle,Multicourse trainers,13
+VND,Vendas e Negociação,Comercial,Centro 3,4,75.0,25.0,24.6,14.8,15.0,5.0,34.8,13.3,Lower-middle,Multicourse trainers,14
+PRI,Primeiros Socorros,Saúde e Segurança,Centro 5,4,75.0,25.0,24.6,14.8,15.0,5.0,34.8,13.3,Lower-middle,Multicourse trainers,14
+EXC,Excel Aplicado à Gestão,Informática,Centro 5,4,75.0,25.0,24.6,14.8,15.0,5.0,34.8,13.3,Lower-middle,Multicourse trainers,14
+SST,Saúde e Segurança no Trabalho,Segurança,Centro 3,4,75.0,25.0,24.6,14.8,15.0,5.0,34.8,13.3,Lower-middle,Multicourse trainers,14
+ING,Inglês Profissional,Línguas,Centro 1,4,75.0,25.0,24.6,14.8,15.0,5.0,34.8,13.3,Lower-middle,Multicourse trainers,14
+PBI,Power BI e Visualização de Dados,Informática,Centro 2,4,100.0,0.0,24.6,14.8,20.0,0.0,34.8,13.3,Lower-middle,Multicourse trainers,14
+LOG,Logística e Gestão de Armazém,Logística,Centro 3,4,75.0,25.0,24.6,14.8,15.0,5.0,34.8,13.3,Lower-middle,Multicourse trainers,14
+SOC,Socorrismo Básico,Saúde e Segurança,Centro 2,4,75.0,25.0,24.6,14.8,15.0,5.0,34.8,13.3,Lower-middle,Multicourse trainers,14
+LID,Liderança e Comunicação,Gestão,Centro 2,4,75.0,25.0,24.6,14.8,15.0,5.0,34.8,13.3,Lower-middle,Multicourse trainers,14
+HOT,Housekeeping e Operações Hoteleiras,Turismo,Centro 4,4,75.0,25.0,24.6,14.8,15.0,5.0,34.8,13.3,Lower-middle,Multicourse trainers,14
+PBI,Power BI e Visualização de Dados,Informática,Centro 1,4,75.0,25.0,24.6,14.8,15.0,5.0,34.8,13.3,Lower-middle,Multicourse trainers,14
+FOR,Formação Pedagógica Inicial de Formadores,Formação,Centro 4,4,100.0,0.0,24.6,14.8,20.0,0.0,34.8,13.3,Lower-middle,Multicourse trainers,14
+INF,"Infeção, Prevenção e Controlo",Saúde,Centro 5,4,75.0,25.0,24.6,14.8,15.0,5.0,34.8,13.3,Lower-middle,Multicourse trainers,14
+EMP,Empilhadores e Movimentação de Cargas,Segurança,Centro 3,4,75.0,0.0,24.6,14.8,15.0,0.0,29.8,5.4,Lower-middle,Multicourse trainers,15
+ING,Inglês Profissional,Línguas,Centro 5,4,75.0,0.0,24.6,14.8,15.0,0.0,29.8,5.4,Lower-middle,Multicourse trainers,15
+INF,"Infeção, Prevenção e Controlo",Saúde,Centro 2,4,50.0,25.0,24.6,14.8,10.0,5.0,29.8,5.4,Lower-middle,Trainer scarcity,15
+SCI,Segurança Contra Incêndios,Segurança,Centro 3,4,75.0,0.0,24.6,14.8,15.0,0.0,29.8,5.4,Lower-middle,Multicourse trainers,15
+GER,Geriatria e Apoio ao Idoso,Saúde,Centro 5,4,75.0,0.0,24.6,14.8,15.0,0.0,29.8,5.4,Lower-middle,Multicourse trainers,15
+ING,Inglês Profissional,Línguas,Centro 2,4,75.0,0.0,24.6,14.8,15.0,0.0,29.8,5.4,Lower-middle,Multicourse trainers,15
+HAC,Higiene e Segurança Alimentar,Alimentar,Centro 2,5,100.0,40.0,1.7,1.0,20.0,8.0,29.0,2.5,Lower-middle,Multicourse trainers,16
+HAC,Higiene e Segurança Alimentar,Alimentar,Centro 5,4,50.0,0.0,24.6,14.8,10.0,0.0,24.8,1.7,Low,Trainer scarcity,17
+PBI,Power BI e Visualização de Dados,Informática,Centro 4,6,83.3,0.0,0.8,0.5,16.7,0.0,17.2,0.8,Low,Multicourse trainers,18
