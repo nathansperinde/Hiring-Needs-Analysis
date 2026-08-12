@@ -203,12 +203,25 @@ The capacity model:
 6. simulates the addition of trainers;
 7. selects the smallest number required to achieve defined coverage targets.
 
+The capacity analysis separates demand into three mutually exclusive periods:
+
+- **Historical:** activity before the most recent 12-month window;
+- **Recent:** activity within the last 12 months up to the analysis date;
+- **Future:** planned activity after the analysis date.
+
+Recent and historical coverage are combined using weights of **60%** and **40%**, producing the observed weighted coverage rate. Future coverage is evaluated separately.
+
+The final planning coverage rate is the lower of:
+
+- the observed weighted coverage rate;
+- the future coverage rate.
+
 Two scenarios are produced:
 
-- **Minimum requirement:** enough additional trainers to reach at least **90% weighted coverage**;
-- **Recommended requirement:** enough additional trainers to reach at least **99% weighted coverage**.
+- **Minimum requirement:** the smallest number of additional trainers required to reach at least **90% planning coverage**;
+- **Recommended requirement:** the smallest number of additional trainers required to reach at least **99% planning coverage**.
 
-Recent and historical capacity are combined using weights of **60%** and **40%**.
+This approach ensures that the recommendation is sufficient for both observed demand patterns and known future training activity.
 
 These figures should be interpreted as planning estimates rather than guaranteed staffing requirements. Actual recruitment decisions must still consider trainer availability, timetables, delivery modality, technical certifications, course-specific requirements, compensation, and managerial judgement.
 

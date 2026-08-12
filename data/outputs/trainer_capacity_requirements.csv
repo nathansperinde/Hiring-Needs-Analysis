@@ -1,121 +1,121 @@
-course_id,course_name,course_area,local,current_trainer_count,minimum_additional_trainers,recommended_additional_trainers,minimum_total_trainers,recommended_total_trainers,current_weighted_coverage_rate,minimum_weighted_coverage_rate,recommended_weighted_coverage_rate,current_coverage_rate_recent,current_coverage_rate_historical,active_days_recent,active_days_historical,peak_active_actions_recent,peak_active_actions_historical,peak_additional_trainers_needed_recent,peak_additional_trainers_needed_historical
-LOG,Logística e Gestão de Armazém,Logística,Centro 5,2,1,3,3,5,71.24,93.05,100.0,62.58,84.24,163,495,3,3,3,2
-PBI,Power BI e Visualização de Dados,Informática,Centro 2,4,1,3,5,7,83.87,92.24,99.38,76.29,95.24,388,1072,7,5,4,2
-PYT,Introdução à Programação em Python,Informática,Centro 2,3,1,3,4,6,75.68,91.67,99.63,67.89,87.36,327,957,5,5,4,3
-FOR,Formação Pedagógica Inicial de Formadores,Formação,Centro 3,3,1,3,4,6,78.9,93.43,100.0,70.82,91.03,490,1393,5,5,3,3
-CYB,Cibersegurança Básica,Informática,Centro 2,3,1,3,4,6,81.61,92.47,99.65,73.02,94.5,278,873,5,6,4,4
-PYT,Introdução à Programação em Python,Informática,Centro 1,3,1,3,4,6,69.98,94.4,99.95,56.02,90.92,266,782,4,5,3,4
-PBI,Power BI e Visualização de Dados,Informática,Centro 4,6,0,3,6,9,95.84,95.84,99.33,93.56,99.26,357,1087,11,7,6,2
-HOT,Housekeeping e Operações Hoteleiras,Turismo,Centro 5,2,1,3,3,5,78.67,97.68,100.0,72.35,88.14,170,506,4,3,3,2
-FOR,Formação Pedagógica Inicial de Formadores,Formação,Centro 2,3,1,3,4,6,76.47,92.53,100.0,67.78,89.51,450,1287,5,4,3,2
-LOG,Logística e Gestão de Armazém,Logística,Centro 2,3,1,3,4,6,88.86,98.26,100.0,85.48,93.93,124,412,5,4,3,2
-HOT,Housekeeping e Operações Hoteleiras,Turismo,Centro 2,2,1,3,3,5,84.98,96.49,100.0,78.72,94.36,188,532,4,2,3,1
-PYT,Introdução à Programação em Python,Informática,Centro 4,3,1,3,4,6,86.26,94.64,99.46,81.0,94.15,221,854,5,4,4,2
-PYT,Introdução à Programação em Python,Informática,Centro 5,4,0,3,4,7,90.01,90.01,99.51,86.64,95.07,247,467,6,3,4,2
-LID,Liderança e Comunicação,Gestão,Centro 3,3,0,3,3,6,97.86,97.86,100.0,96.43,100.0,168,400,5,3,3,0
-GER,Geriatria e Apoio ao Idoso,Saúde,Centro 3,3,0,2,3,5,90.22,90.22,99.73,88.29,93.12,350,1163,5,6,3,4
-SST,Saúde e Segurança no Trabalho,Segurança,Centro 1,2,1,2,3,4,76.54,97.35,99.84,71.7,83.79,212,728,3,5,2,4
-CYB,Cibersegurança Básica,Informática,Centro 1,3,1,2,4,5,54.41,91.53,99.26,40.97,74.56,288,680,4,4,3,3
-MNT,Manutenção Industrial Básica,Manutenção,Centro 1,2,1,2,3,4,75.21,94.47,99.68,67.91,86.16,187,542,3,4,3,2
-EXC,Excel Aplicado à Gestão,Informática,Centro 4,3,1,2,4,5,83.24,95.37,99.02,76.22,93.76,307,881,4,4,3,2
-EXC,Excel Aplicado à Gestão,Informática,Centro 2,3,0,2,3,5,93.55,93.55,99.75,91.6,96.47,238,850,5,4,3,2
-CYB,Cibersegurança Básica,Informática,Centro 4,4,1,2,5,6,80.98,95.47,99.42,73.8,91.74,313,956,5,4,3,2
-VND,Vendas e Negociação,Comercial,Centro 4,2,1,2,3,4,45.43,93.37,99.64,39.18,54.81,194,551,3,4,2,3
-MNT,Manutenção Industrial Básica,Manutenção,Centro 5,3,1,2,4,5,86.64,97.52,100.0,79.41,97.48,170,555,4,4,2,2
-PBI,Power BI e Visualização de Dados,Informática,Centro 3,4,1,2,5,6,84.54,96.1,99.85,78.02,94.33,232,811,4,6,2,3
-INF,"Infeção, Prevenção e Controlo",Saúde,Centro 3,2,1,2,3,4,72.31,97.45,100.0,66.27,81.38,166,537,3,3,2,2
-GER,Geriatria e Apoio ao Idoso,Saúde,Centro 4,3,0,2,3,5,95.13,95.13,99.53,92.89,98.49,253,925,5,4,3,1
-SEG,Segurança no Trabalho,Segurança,Centro 5,3,1,2,4,5,87.16,98.83,100.0,82.86,93.62,140,517,3,4,2,2
-GES,Gestão de Equipas,Gestão,Centro 4,2,1,2,3,4,34.96,91.35,99.29,27.22,46.57,169,496,4,3,3,2
-CYB,Cibersegurança Básica,Informática,Centro 3,4,1,2,5,6,84.56,98.68,99.52,79.28,92.47,251,664,5,3,3,2
-SEG,Segurança no Trabalho,Segurança,Centro 1,2,1,2,3,4,82.5,97.32,99.57,78.42,88.62,139,536,4,3,3,2
-PRO,Gestão de Projetos,Gestão,Centro 2,3,1,2,4,5,89.8,97.0,99.7,84.0,98.5,200,602,5,3,3,1
-SCI,Segurança Contra Incêndios,Segurança,Centro 1,3,1,2,4,5,87.38,98.56,100.0,85.4,90.34,137,321,4,3,2,2
-TUR,Atendimento Turístico,Turismo,Centro 5,2,1,2,3,4,72.54,94.75,99.5,61.67,88.85,120,323,4,2,3,2
-LID,Liderança e Comunicação,Gestão,Centro 4,2,1,2,3,4,83.55,96.49,100.0,76.25,94.49,160,581,3,3,2,2
-PRO,Gestão de Projetos,Gestão,Centro 4,3,1,2,4,5,83.35,98.94,100.0,76.55,93.56,226,637,4,3,2,1
-CYB,Cibersegurança Básica,Informática,Centro 5,4,0,2,4,6,93.89,93.89,99.23,91.81,97.0,171,567,5,5,3,3
-PYT,Introdução à Programação em Python,Informática,Centro 3,3,1,2,4,5,84.59,96.86,99.77,79.15,92.75,211,690,4,4,2,3
-TUR,Atendimento Turístico,Turismo,Centro 2,2,1,2,3,4,74.93,97.18,100.0,66.17,88.08,133,344,2,3,2,2
-VND,Vendas e Negociação,Comercial,Centro 5,2,1,2,3,4,58.26,96.96,100.0,46.07,76.55,178,469,2,3,2,2
-SOC,Socorrismo Básico,Saúde e Segurança,Centro 3,2,1,2,3,4,87.76,98.53,100.0,83.9,93.56,118,357,3,3,2,2
-HAC,Higiene e Segurança Alimentar,Alimentar,Centro 1,3,1,2,4,5,89.52,97.31,99.1,83.58,98.43,67,319,4,2,3,1
-SEG,Segurança no Trabalho,Segurança,Centro 3,3,0,2,3,5,93.8,93.8,100.0,90.09,99.37,111,316,4,4,2,2
-LID,Liderança e Comunicação,Gestão,Centro 5,3,1,2,4,5,86.51,97.29,99.23,81.94,93.36,155,512,4,2,3,1
-MNT,Manutenção Industrial Básica,Manutenção,Centro 4,4,0,2,4,6,98.58,98.58,100.0,97.64,100.0,127,513,4,3,2,0
-GES,Gestão de Equipas,Gestão,Centro 3,2,1,2,3,4,53.18,97.23,100.0,38.46,75.25,65,295,2,2,2,1
-PBI,Power BI e Visualização de Dados,Informática,Centro 5,3,1,1,4,4,86.95,99.31,99.31,80.38,96.8,260,625,4,4,2,1
-PRI,Primeiros Socorros,Saúde e Segurança,Centro 3,3,0,1,3,4,98.16,98.16,100.0,97.5,99.16,120,475,3,3,1,1
-EXC,Excel Aplicado à Gestão,Informática,Centro 1,3,1,1,4,4,88.67,99.24,99.24,82.55,97.85,212,605,3,3,2,2
-SST,Saúde e Segurança no Trabalho,Segurança,Centro 5,4,0,1,4,5,97.33,97.33,99.7,96.46,98.64,198,734,5,4,2,1
-SST,Saúde e Segurança no Trabalho,Segurança,Centro 4,3,0,1,3,4,94.63,94.63,99.48,93.68,96.06,174,457,4,4,2,2
-PBI,Power BI e Visualização de Dados,Informática,Centro 1,4,0,1,4,5,94.97,94.97,99.0,93.33,97.43,300,856,5,4,2,1
-LOG,Logística e Gestão de Armazém,Logística,Centro 1,3,0,1,3,4,96.15,96.15,99.65,94.22,99.05,173,526,4,3,2,1
-PRI,Primeiros Socorros,Saúde e Segurança,Centro 1,3,1,1,4,4,89.89,99.74,99.74,88.28,92.31,145,455,2,3,1,2
-ING,Inglês Profissional,Línguas,Centro 4,2,1,1,3,3,78.91,99.55,99.55,76.62,82.35,201,629,2,3,1,2
-FOR,Formação Pedagógica Inicial de Formadores,Formação,Centro 4,4,0,1,4,5,95.31,95.31,99.65,94.89,95.95,352,1480,4,6,1,2
-FOR,Formação Pedagógica Inicial de Formadores,Formação,Centro 5,4,0,1,4,5,94.31,94.31,99.92,91.01,99.27,367,1515,4,5,1,2
-PRI,Primeiros Socorros,Saúde e Segurança,Centro 4,2,0,1,2,3,90.57,90.57,99.14,89.52,92.14,105,280,2,4,1,3
-VND,Vendas e Negociação,Comercial,Centro 2,4,0,1,4,5,94.94,94.94,99.7,92.08,99.24,202,654,4,4,2,1
-GER,Geriatria e Apoio ao Idoso,Saúde,Centro 1,4,0,1,4,5,97.37,97.37,100.0,95.8,99.73,262,754,4,4,1,1
-ING,Inglês Profissional,Línguas,Centro 2,4,0,1,4,5,97.8,97.8,100.0,96.34,100.0,246,665,4,4,1,0
-GER,Geriatria e Apoio ao Idoso,Saúde,Centro 2,4,0,1,4,5,95.51,95.51,99.17,93.86,97.98,228,939,6,4,3,2
-GER,Geriatria e Apoio ao Idoso,Saúde,Centro 5,4,0,1,4,5,97.96,97.96,100.0,97.06,99.31,238,870,5,5,1,1
-HCP,HACCP Aplicado,Alimentar,Centro 5,2,1,1,3,3,87.65,99.65,99.65,83.54,93.81,79,339,2,4,1,2
-HOT,Housekeeping e Operações Hoteleiras,Turismo,Centro 3,2,1,1,3,3,74.03,99.5,99.5,67.23,84.23,119,336,2,2,2,1
-MNT,Manutenção Industrial Básica,Manutenção,Centro 3,4,0,1,4,5,96.6,96.6,99.57,94.33,100.0,141,377,4,2,2,0
-SEG,Segurança no Trabalho,Segurança,Centro 2,3,1,1,4,4,84.13,99.9,99.9,78.18,93.04,110,388,2,3,1,2
-GES,Gestão de Equipas,Gestão,Centro 2,3,1,1,4,4,80.73,99.58,99.58,71.33,94.83,143,522,4,2,2,1
-INF,"Infeção, Prevenção e Controlo",Saúde,Centro 1,2,1,1,3,3,80.47,100.0,100.0,74.42,89.53,86,258,2,3,1,1
-EXC,Excel Aplicado à Gestão,Informática,Centro 3,4,0,1,4,5,96.08,96.08,100.0,93.56,99.85,202,677,3,4,1,1
-HCP,HACCP Aplicado,Alimentar,Centro 4,2,0,1,2,3,95.99,95.99,99.04,97.14,94.26,70,209,2,3,1,2
-HOT,Housekeeping e Operações Hoteleiras,Turismo,Centro 1,3,0,1,3,4,96.06,96.06,100.0,94.44,98.47,108,393,4,2,1,1
-SST,Saúde e Segurança no Trabalho,Segurança,Centro 2,4,0,1,4,5,96.46,96.46,100.0,94.48,99.44,181,534,3,3,1,1
-INF,"Infeção, Prevenção e Controlo",Saúde,Centro 4,2,0,1,2,3,93.27,93.27,99.54,91.86,95.38,86,346,2,4,1,3
-EMP,Empilhadores e Movimentação de Cargas,Segurança,Centro 5,2,1,1,3,3,85.79,100.0,100.0,80.0,94.47,80,253,2,2,1,1
-FOR,Formação Pedagógica Inicial de Formadores,Formação,Centro 1,4,0,1,4,5,92.96,92.96,99.9,92.27,94.0,220,1249,3,4,1,2
-EXC,Excel Aplicado à Gestão,Informática,Centro 5,4,0,1,4,5,95.73,95.73,99.65,93.6,98.91,172,645,4,4,2,1
-TUR,Atendimento Turístico,Turismo,Centro 4,2,1,1,3,3,79.56,100.0,100.0,79.27,80.0,82,235,2,2,1,1
-HAC,Higiene e Segurança Alimentar,Alimentar,Centro 5,4,0,1,4,5,98.78,98.78,99.59,97.96,100.0,147,419,5,3,2,0
-ING,Inglês Profissional,Línguas,Centro 3,4,0,1,4,5,98.65,98.65,100.0,98.13,99.43,214,705,4,4,1,1
-LOG,Logística e Gestão de Armazém,Logística,Centro 3,4,0,1,4,5,98.62,98.62,100.0,97.69,100.0,130,387,3,3,1,0
-SST,Saúde e Segurança no Trabalho,Segurança,Centro 3,4,0,1,4,5,98.71,98.71,100.0,98.12,99.59,160,490,4,4,1,1
-HAC,Higiene e Segurança Alimentar,Alimentar,Centro 4,2,0,1,2,3,94.83,94.83,100.0,93.33,97.07,90,239,2,2,1,1
-HAC,Higiene e Segurança Alimentar,Alimentar,Centro 3,4,0,1,4,5,98.42,98.42,99.71,98.8,97.85,83,279,3,4,1,2
-EMP,Empilhadores e Movimentação de Cargas,Segurança,Centro 4,4,0,1,4,5,98.46,98.46,100.0,97.44,100.0,78,286,4,3,1,0
-SCI,Segurança Contra Incêndios,Segurança,Centro 2,2,0,1,2,3,95.28,95.28,99.64,94.83,95.96,58,223,2,3,1,2
-HCP,HACCP Aplicado,Alimentar,Centro 1,4,0,1,4,5,98.67,98.67,99.33,97.78,100.0,90,279,3,2,2,0
-PRO,Gestão de Projetos,Gestão,Centro 3,4,0,1,4,5,94.34,94.34,99.5,90.91,99.48,121,387,4,4,2,1
-EMP,Empilhadores e Movimentação de Cargas,Segurança,Centro 2,2,1,1,3,3,89.31,100.0,100.0,87.5,92.02,80,213,2,2,1,1
-PRO,Gestão de Projetos,Gestão,Centro 5,4,0,1,4,5,97.28,97.28,100.0,96.23,98.86,159,437,3,2,1,1
-GES,Gestão de Equipas,Gestão,Centro 5,4,0,1,4,5,98.71,98.71,99.76,98.66,98.8,149,333,3,4,1,2
-SCI,Segurança Contra Incêndios,Segurança,Centro 5,2,0,1,2,3,96.43,96.43,100.0,94.34,99.57,53,230,2,2,1,1
-HCP,HACCP Aplicado,Alimentar,Centro 3,4,0,1,4,5,98.35,98.35,100.0,97.47,99.67,79,299,2,3,1,1
-PRO,Gestão de Projetos,Gestão,Centro 1,4,0,1,4,5,96.52,96.52,99.62,95.0,98.8,160,502,3,2,2,1
-TUR,Atendimento Turístico,Turismo,Centro 1,2,0,1,2,3,95.48,95.48,99.84,98.72,90.62,78,256,2,3,1,2
-SOC,Socorrismo Básico,Saúde e Segurança,Centro 5,2,0,1,2,3,98.76,98.76,100.0,100.0,96.91,68,259,2,2,0,1
-SOC,Socorrismo Básico,Saúde e Segurança,Centro 2,4,0,1,4,5,97.39,97.39,100.0,95.65,100.0,69,231,3,2,1,0
-LID,Liderança e Comunicação,Gestão,Centro 2,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,166,662,3,3,0,0
-MNT,Manutenção Industrial Básica,Manutenção,Centro 2,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,123,289,2,3,0,0
-EMP,Empilhadores e Movimentação de Cargas,Segurança,Centro 1,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,93,355,2,3,0,0
-PRI,Primeiros Socorros,Saúde e Segurança,Centro 5,4,0,0,4,4,99.44,99.44,99.44,99.07,100.0,107,291,4,3,1,0
-SEG,Segurança no Trabalho,Segurança,Centro 4,4,0,0,4,4,99.79,99.79,99.79,100.0,99.48,78,385,3,4,0,1
-PRI,Primeiros Socorros,Saúde e Segurança,Centro 2,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,91,302,3,3,0,0
-LOG,Logística e Gestão de Armazém,Logística,Centro 4,4,0,0,4,4,99.9,99.9,99.9,100.0,99.74,107,391,4,4,0,1
-ING,Inglês Profissional,Línguas,Centro 1,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,154,527,3,3,0,0
-VND,Vendas e Negociação,Comercial,Centro 1,4,0,0,4,4,99.83,99.83,99.83,100.0,99.57,116,466,2,3,0,1
-LID,Liderança e Comunicação,Gestão,Centro 1,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,179,434,3,2,0,0
-SOC,Socorrismo Básico,Saúde e Segurança,Centro 4,2,0,0,2,2,99.1,99.1,99.1,100.0,97.75,80,267,2,2,0,1
-INF,"Infeção, Prevenção e Controlo",Saúde,Centro 2,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,98,349,3,3,0,0
-SCI,Segurança Contra Incêndios,Segurança,Centro 4,2,0,0,2,2,99.0,99.0,99.0,100.0,97.51,36,201,2,3,0,1
-GES,Gestão de Equipas,Gestão,Centro 1,4,0,0,4,4,99.43,99.43,99.43,100.0,98.57,103,420,2,4,0,1
-HCP,HACCP Aplicado,Alimentar,Centro 2,4,0,0,4,4,99.84,99.84,99.84,100.0,99.6,83,248,2,3,0,1
-INF,"Infeção, Prevenção e Controlo",Saúde,Centro 5,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,91,286,3,3,0,0
-HAC,Higiene e Segurança Alimentar,Alimentar,Centro 2,5,0,0,5,5,99.63,99.63,99.63,100.0,99.08,70,325,3,3,0,1
-SCI,Segurança Contra Incêndios,Segurança,Centro 3,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,73,253,3,2,0,0
-ING,Inglês Profissional,Línguas,Centro 5,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,173,566,3,3,0,0
-EMP,Empilhadores e Movimentação de Cargas,Segurança,Centro 3,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,91,283,3,2,0,0
-SOC,Socorrismo Básico,Saúde e Segurança,Centro 1,2,0,0,2,2,100.0,100.0,100.0,100.0,100.0,75,192,1,2,0,0
-VND,Vendas e Negociação,Comercial,Centro 3,4,0,0,4,4,99.52,99.52,99.52,99.19,100.0,124,371,3,3,1,0
-HOT,Housekeeping e Operações Hoteleiras,Turismo,Centro 4,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,70,307,3,2,0,0
-TUR,Atendimento Turístico,Turismo,Centro 3,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,96,185,2,3,0,0
+course_id,course_name,course_area,local,priority_score,priority_level,priority_assessment,current_trainer_count,minimum_additional_trainers,recommended_additional_trainers,minimum_total_trainers,recommended_total_trainers,current_planning_coverage_rate,minimum_planning_coverage_rate,recommended_planning_coverage_rate,current_observed_weighted_coverage_rate,minimum_observed_weighted_coverage_rate,recommended_observed_weighted_coverage_rate,current_coverage_rate_future,minimum_coverage_rate_future,recommended_coverage_rate_future,current_coverage_rate_recent,current_coverage_rate_historical,active_days_future,active_days_recent,active_days_historical,peak_active_actions_future,peak_active_actions_recent,peak_active_actions_historical,peak_additional_trainers_needed_future,peak_additional_trainers_needed_recent,peak_additional_trainers_needed_historical
+PBI,Power BI e Visualização de Dados,Informática,Centro 2,80.72,High,High priority with moderate agreement,4,2,4,6,8,69.07,95.88,100.0,85.31,98.35,100.0,69.07,95.88,100.0,78.69,95.24,97,291,1072,6,7,5,4,4,2
+CYB,Cibersegurança Básica,Informática,Centro 2,77.65,High,High priority with moderate agreement,3,2,4,5,7,74.68,92.41,100.0,81.22,98.66,100.0,74.68,92.41,100.0,72.36,94.5,79,199,873,5,5,6,4,3,4
+PYT,Introdução à Programação em Python,Informática,Centro 4,56.3,Upper-middle,Moderate priority,3,2,4,5,7,71.43,93.51,100.0,89.32,98.33,100.0,71.43,93.51,100.0,86.11,94.15,77,144,854,5,4,4,4,3,2
+PYT,Introdução à Programação em Python,Informática,Centro 5,45.3,Lower-middle,Low priority,4,3,4,7,8,75.47,96.23,100.0,91.84,100.0,100.0,75.47,96.23,100.0,89.69,95.07,53,194,467,6,3,3,4,1,2
+LOG,Logística e Gestão de Armazém,Logística,Centro 5,81.44,High,Confirmed high priority,2,2,3,4,5,61.36,90.91,100.0,71.51,100.0,100.0,61.36,90.91,100.0,63.03,84.24,44,119,495,3,3,3,3,2,2
+PYT,Introdução à Programação em Python,Informática,Centro 2,80.53,High,High priority with moderate agreement,3,2,3,5,6,70.91,98.45,99.45,74.76,98.45,99.45,70.91,100.0,100.0,66.36,87.36,110,217,957,3,5,5,2,4,3
+MNT,Manutenção Industrial Básica,Manutenção,Centro 1,78.78,High,High priority with moderate agreement,2,2,3,4,5,72.31,98.25,100.0,72.31,100.0,100.0,78.95,98.25,100.0,63.08,86.16,57,130,542,3,3,4,3,2,2
+FOR,Formação Pedagógica Inicial de Formadores,Formação,Centro 3,77.96,High,High priority with moderate agreement,3,2,3,5,6,60.99,97.16,100.0,81.28,99.25,100.0,60.99,97.16,100.0,74.79,91.03,141,349,1393,5,5,5,3,3,3
+EXC,Excel Aplicado à Gestão,Informática,Centro 4,77.84,High,High priority with moderate agreement,3,1,3,4,6,75.0,92.5,100.0,83.49,95.37,100.0,75.0,92.5,100.0,76.65,93.76,80,227,881,4,4,4,3,3,2
+PYT,Introdução à Programação em Python,Informática,Centro 1,76.47,High,High priority with moderate agreement,3,2,3,5,6,46.67,93.33,99.95,71.61,99.11,99.95,46.67,93.33,100.0,58.74,90.92,60,206,782,4,4,5,3,3,4
+PBI,Power BI e Visualização de Dados,Informática,Centro 4,72.37,Upper-middle,Moderate priority,6,0,3,6,9,93.27,93.27,99.05,95.91,95.91,99.05,93.27,93.27,100.0,93.68,99.26,104,253,1087,5,11,7,1,6,2
+HOT,Housekeeping e Operações Hoteleiras,Turismo,Centro 5,70.82,Upper-middle,Moderate priority,2,1,3,3,5,66.67,97.16,100.0,79.68,97.16,100.0,66.67,100.0,100.0,74.05,88.14,39,131,506,2,4,3,1,3,2
+GER,Geriatria e Apoio ao Idoso,Saúde,Centro 4,69.1,Upper-middle,Moderate priority,3,0,3,3,6,92.06,92.06,100.0,95.29,95.29,100.0,92.06,92.06,100.0,93.16,98.49,63,190,925,5,5,4,3,3,1
+FOR,Formação Pedagógica Inicial de Formadores,Formação,Centro 2,68.9,Upper-middle,Moderate priority,3,2,3,5,6,73.42,95.65,100.0,73.42,98.75,100.0,82.61,95.65,100.0,62.69,89.51,115,335,1287,5,5,4,3,3,2
+LOG,Logística e Gestão de Armazém,Logística,Centro 2,68.42,Upper-middle,Moderate priority,3,1,3,4,6,83.33,97.51,100.0,89.52,97.51,100.0,83.33,100.0,100.0,86.59,93.93,42,82,412,2,5,4,1,3,2
+HOT,Housekeeping e Operações Hoteleiras,Turismo,Centro 2,66.33,Upper-middle,Moderate priority,2,1,3,3,5,69.84,90.48,100.0,87.66,97.6,100.0,69.84,90.48,100.0,83.2,94.36,63,125,532,4,4,2,3,3,1
+CYB,Cibersegurança Básica,Informática,Centro 3,65.82,Upper-middle,Moderate priority,4,1,3,5,7,82.83,97.26,100.0,82.83,98.87,100.0,86.3,97.26,100.0,76.4,92.47,73,178,664,5,5,3,3,3,2
+SEG,Segurança no Trabalho,Segurança,Centro 1,65.39,Upper-middle,Moderate priority,2,1,3,3,5,66.0,94.0,100.0,86.68,98.13,100.0,66.0,94.0,100.0,85.39,88.62,50,89,536,4,3,3,3,2,2
+CYB,Cibersegurança Básica,Informática,Centro 5,56.61,Upper-middle,Moderate priority,4,0,3,4,7,93.48,93.48,100.0,93.48,93.48,100.0,93.62,93.62,100.0,91.13,97.0,47,124,567,4,5,5,1,3,3
+HAC,Higiene e Segurança Alimentar,Alimentar,Centro 1,53.06,Upper-middle,Moderate priority,3,1,3,4,6,88.26,96.67,100.0,88.26,96.67,100.0,92.31,100.0,100.0,81.48,98.43,13,54,319,1,4,2,1,3,1
+GER,Geriatria e Apoio ao Idoso,Saúde,Centro 2,51.41,Upper-middle,Moderate priority,4,1,3,5,7,87.5,96.59,100.0,97.9,99.96,100.0,87.5,96.59,100.0,97.86,97.98,88,140,939,6,2,4,3,1,2
+LID,Liderança e Comunicação,Gestão,Centro 5,49.78,Lower-middle,Low priority,3,1,3,4,6,77.5,95.0,100.0,87.43,97.39,100.0,77.5,95.0,100.0,83.48,93.36,40,115,512,3,4,2,2,3,1
+LID,Liderança e Comunicação,Gestão,Centro 3,44.09,Lower-middle,Low priority,3,0,3,3,6,90.91,90.91,100.0,99.03,99.03,100.0,90.91,90.91,100.0,98.39,100.0,44,124,400,5,3,3,3,1,0
+GER,Geriatria e Apoio ao Idoso,Saúde,Centro 3,83.46,High,High priority with moderate agreement,3,1,2,4,5,81.74,95.65,99.13,92.14,98.44,99.9,81.74,95.65,99.13,91.49,93.12,115,235,1163,5,5,6,3,2,4
+SST,Saúde e Segurança no Trabalho,Segurança,Centro 1,83.3,High,Confirmed high priority,2,1,2,3,4,65.38,96.15,99.84,77.77,97.37,99.84,65.38,96.15,100.0,73.75,83.79,52,160,728,3,3,5,2,2,4
+CYB,Cibersegurança Básica,Informática,Centro 1,80.42,High,High priority with moderate agreement,3,2,2,5,5,26.32,99.1,99.1,56.58,99.1,99.1,26.32,100.0,100.0,44.59,74.56,57,231,680,4,4,4,2,3,3
+EXC,Excel Aplicado à Gestão,Informática,Centro 2,73.87,Upper-middle,Moderate priority,3,0,2,3,5,92.7,92.7,99.63,92.7,92.7,99.63,94.67,94.67,100.0,90.18,96.47,75,163,850,4,5,4,2,3,2
+CYB,Cibersegurança Básica,Informática,Centro 4,72.81,Upper-middle,Moderate priority,4,1,2,5,6,71.3,94.12,99.13,81.85,94.12,99.39,71.3,96.52,99.13,75.25,91.74,115,198,956,5,4,4,3,3,2
+VND,Vendas e Negociação,Comercial,Centro 4,72.45,Upper-middle,Moderate priority,2,2,2,4,4,40.38,99.64,99.64,45.16,99.64,99.64,40.38,100.0,100.0,38.73,54.81,52,142,551,3,3,4,2,2,3
+MNT,Manutenção Industrial Básica,Manutenção,Centro 5,71.9,Upper-middle,Moderate priority,3,2,2,5,5,77.59,100.0,100.0,87.21,100.0,100.0,77.59,100.0,100.0,80.36,97.48,58,112,555,4,3,4,2,1,2
+PBI,Power BI e Visualização de Dados,Informática,Centro 3,70.58,Upper-middle,Moderate priority,4,1,2,5,6,82.99,95.0,99.85,82.99,95.0,99.85,85.96,100.0,100.0,75.43,94.33,57,175,811,2,4,6,1,2,3
+INF,"Infeção, Prevenção e Controlo",Saúde,Centro 3,70.55,Upper-middle,Moderate priority,2,1,2,3,4,52.5,92.5,100.0,74.93,98.3,100.0,52.5,92.5,100.0,70.63,81.38,40,126,537,3,2,3,2,2,2
+PBI,Power BI e Visualização de Dados,Informática,Centro 5,70.26,Upper-middle,Moderate priority,3,1,2,4,5,75.95,97.47,100.0,88.11,99.67,100.0,75.95,97.47,100.0,82.32,96.8,79,181,625,4,3,4,2,2,1
+SEG,Segurança no Trabalho,Segurança,Centro 5,68.1,Upper-middle,Moderate priority,3,1,2,4,5,86.13,98.56,100.0,86.13,98.56,100.0,88.24,100.0,100.0,81.13,93.62,34,106,517,2,3,4,1,2,2
+GES,Gestão de Equipas,Gestão,Centro 4,67.53,Upper-middle,Moderate priority,2,2,2,4,4,33.38,99.02,99.02,33.38,99.02,99.02,34.04,100.0,100.0,24.59,46.57,47,122,496,2,4,3,1,3,2
+EXC,Excel Aplicado à Gestão,Informática,Centro 1,65.76,Upper-middle,Moderate priority,3,1,2,4,5,83.08,98.99,100.0,88.53,98.99,100.0,83.08,100.0,100.0,82.31,97.85,65,147,605,3,3,3,1,2,2
+PRO,Gestão de Projetos,Gestão,Centro 2,63.16,Upper-middle,Moderate priority,3,1,2,4,5,83.58,95.49,99.55,89.93,95.49,99.55,83.58,100.0,100.0,84.21,98.5,67,133,602,3,5,3,1,3,1
+SCI,Segurança Contra Incêndios,Segurança,Centro 1,62.98,Upper-middle,Moderate priority,3,1,2,4,5,82.5,95.0,100.0,88.1,99.26,100.0,82.5,95.0,100.0,86.6,90.34,40,97,321,4,4,3,2,2,2
+TUR,Atendimento Turístico,Turismo,Centro 5,62.71,Upper-middle,Moderate priority,2,1,2,3,4,66.67,93.32,99.29,71.26,93.32,99.29,66.67,97.22,100.0,59.52,88.85,36,84,323,3,4,2,2,3,2
+LID,Liderança e Comunicação,Gestão,Centro 4,62.18,Upper-middle,Moderate priority,2,2,2,4,4,76.81,100.0,100.0,83.29,100.0,100.0,76.81,100.0,100.0,75.82,94.49,69,91,581,3,3,3,2,2,2
+PBI,Power BI e Visualização de Dados,Informática,Centro 1,61.62,Upper-middle,Moderate priority,4,1,2,5,6,82.95,94.32,100.0,97.56,100.0,100.0,82.95,94.32,100.0,97.64,97.43,88,212,856,5,3,4,2,1,1
+PRO,Gestão de Projetos,Gestão,Centro 4,60.42,Upper-middle,Moderate priority,3,1,2,4,5,72.6,98.43,100.0,84.48,98.43,100.0,72.6,100.0,100.0,78.43,93.56,73,153,637,2,4,3,1,2,1
+LOG,Logística e Gestão de Armazém,Logística,Centro 1,60.06,Upper-middle,Moderate priority,3,1,2,4,5,82.22,97.78,100.0,98.68,100.0,100.0,82.22,97.78,100.0,98.44,99.05,45,128,526,4,3,3,2,1,1
+PYT,Introdução à Programação em Python,Informática,Centro 3,55.47,Upper-middle,Moderate priority,3,1,2,4,5,82.82,94.12,99.77,82.82,97.52,99.77,83.53,94.12,100.0,76.19,92.75,85,126,690,4,3,4,2,2,3
+TUR,Atendimento Turístico,Turismo,Centro 2,55.05,Upper-middle,Moderate priority,2,1,2,3,4,59.46,91.89,100.0,76.48,98.01,100.0,59.46,91.89,100.0,68.75,88.08,37,96,344,2,2,3,2,2,2
+VND,Vendas e Negociação,Comercial,Centro 5,55.04,Upper-middle,Moderate priority,2,1,2,3,4,40.0,95.41,100.0,60.35,95.41,100.0,40.0,100.0,100.0,49.56,76.55,65,113,469,2,2,3,1,2,2
+VND,Vendas e Negociação,Comercial,Centro 2,53.95,Upper-middle,Moderate priority,4,1,2,5,6,87.5,98.75,100.0,96.74,100.0,100.0,87.5,98.75,100.0,95.08,99.24,80,122,654,4,3,4,2,1,1
+SOC,Socorrismo Básico,Saúde e Segurança,Centro 3,53.74,Upper-middle,Moderate priority,2,1,2,3,4,80.56,98.09,100.0,88.64,98.09,100.0,80.56,100.0,100.0,85.37,93.56,36,82,357,2,3,3,1,2,2
+SEG,Segurança no Trabalho,Segurança,Centro 3,51.84,Upper-middle,Moderate priority,3,1,2,4,5,82.86,98.29,100.0,95.8,98.29,100.0,82.86,100.0,100.0,93.42,99.37,35,76,316,3,4,4,1,2,2
+HOT,Housekeeping e Operações Hoteleiras,Turismo,Centro 3,48.98,Lower-middle,Low priority,2,1,2,3,4,63.16,97.37,100.0,75.17,100.0,100.0,63.16,97.37,100.0,69.14,84.23,38,81,336,2,2,2,2,1,1
+EXC,Excel Aplicado à Gestão,Informática,Centro 5,45.07,Lower-middle,Low priority,4,1,2,5,6,78.72,97.87,100.0,99.09,100.0,100.0,78.72,97.87,100.0,99.2,98.91,47,125,645,4,3,4,2,1,1
+MNT,Manutenção Industrial Básica,Manutenção,Centro 4,44.64,Lower-middle,Low priority,4,0,2,4,6,97.83,97.83,100.0,97.83,97.83,100.0,100.0,100.0,100.0,96.39,100.0,44,83,513,2,4,3,0,2,0
+HAC,Higiene e Segurança Alimentar,Alimentar,Centro 5,44.54,Lower-middle,Low priority,4,0,2,4,6,95.45,95.45,100.0,99.42,99.42,100.0,95.45,95.45,100.0,99.03,100.0,44,103,419,5,3,3,2,1,0
+PRO,Gestão de Projetos,Gestão,Centro 1,30.41,Lower-middle,Low priority,4,0,2,4,6,92.73,92.73,100.0,97.24,97.24,100.0,92.73,92.73,100.0,96.19,98.8,55,105,502,3,2,2,2,1,1
+GES,Gestão de Equipas,Gestão,Centro 3,24.42,Low,Low priority,2,2,2,4,4,11.11,100.0,100.0,59.46,100.0,100.0,11.11,100.0,100.0,48.94,75.25,18,47,295,2,1,2,2,1,1
+PRI,Primeiros Socorros,Saúde e Segurança,Centro 3,67.03,Upper-middle,Moderate priority,3,0,1,3,4,91.18,91.18,100.0,99.66,99.66,100.0,91.18,91.18,100.0,100.0,99.16,34,86,475,3,3,3,1,0,1
+SST,Saúde e Segurança no Trabalho,Segurança,Centro 5,63.98,Upper-middle,Moderate priority,4,0,1,4,5,96.66,96.66,99.6,96.66,96.66,99.6,100.0,100.0,100.0,95.33,98.64,48,150,734,2,5,4,0,2,1
+SST,Saúde e Segurança no Trabalho,Segurança,Centro 4,63.92,Upper-middle,Moderate priority,3,0,1,3,4,94.03,94.03,99.34,94.03,94.03,99.34,96.08,96.08,100.0,92.68,96.06,51,123,457,2,4,4,1,2,2
+PRI,Primeiros Socorros,Saúde e Segurança,Centro 1,59.52,Upper-middle,Moderate priority,3,1,1,4,4,87.27,99.74,99.74,90.26,99.74,99.74,87.27,100.0,100.0,88.89,92.31,55,90,455,2,2,3,1,1,2
+ING,Inglês Profissional,Línguas,Centro 4,58.62,Upper-middle,Moderate priority,2,1,1,3,3,75.81,99.55,99.55,79.13,99.55,99.55,75.81,100.0,100.0,76.98,82.35,62,139,629,2,2,3,1,1,2
+FOR,Formação Pedagógica Inicial de Formadores,Formação,Centro 4,55.36,Upper-middle,Moderate priority,4,1,1,5,5,89.13,99.65,99.65,96.53,99.65,99.65,89.13,100.0,100.0,96.92,95.95,92,260,1480,4,3,6,1,1,2
+FOR,Formação Pedagógica Inicial de Formadores,Formação,Centro 5,55.0,Upper-middle,Moderate priority,4,0,1,4,5,92.15,92.15,99.92,92.15,92.15,99.92,100.0,100.0,100.0,87.4,99.27,105,262,1515,2,4,5,0,1,2
+PRI,Primeiros Socorros,Saúde e Segurança,Centro 4,54.86,Upper-middle,Moderate priority,2,0,1,2,3,90.08,90.08,99.14,90.08,90.08,99.14,90.7,90.7,100.0,88.71,92.14,43,62,280,2,2,4,1,1,3
+GER,Geriatria e Apoio ao Idoso,Saúde,Centro 1,52.47,Upper-middle,Moderate priority,4,0,1,4,5,96.43,96.43,100.0,96.43,96.43,100.0,98.88,98.88,100.0,94.22,99.73,89,173,754,3,4,4,1,1,1
+ING,Inglês Profissional,Línguas,Centro 2,52.0,Upper-middle,Moderate priority,4,0,1,4,5,91.36,91.36,100.0,99.27,99.27,100.0,91.36,91.36,100.0,98.79,100.0,81,165,665,4,3,4,1,1,0
+GER,Geriatria e Apoio ao Idoso,Saúde,Centro 5,50.94,Upper-middle,Moderate priority,4,0,1,4,5,97.27,97.27,100.0,97.27,97.27,100.0,100.0,100.0,100.0,95.91,99.31,67,171,870,3,5,5,0,1,1
+HCP,HACCP Aplicado,Alimentar,Centro 5,50.65,Upper-middle,Moderate priority,2,1,1,3,3,80.65,99.65,99.65,88.77,99.65,99.65,80.65,100.0,100.0,85.42,93.81,31,48,339,2,2,4,1,1,2
+MNT,Manutenção Industrial Básica,Manutenção,Centro 3,48.74,Lower-middle,Low priority,4,1,1,5,5,89.74,99.41,99.41,97.65,99.41,99.41,89.74,100.0,100.0,96.08,100.0,39,102,377,3,4,2,1,2,0
+SEG,Segurança no Trabalho,Segurança,Centro 2,48.43,Lower-middle,Low priority,3,1,1,4,4,77.14,99.9,99.9,84.42,99.9,99.9,77.14,100.0,100.0,78.67,93.04,35,75,388,1,2,3,1,1,2
+GES,Gestão de Equipas,Gestão,Centro 2,47.79,Lower-middle,Low priority,3,1,1,4,4,74.42,99.4,99.4,79.93,99.4,99.4,74.42,100.0,100.0,70.0,94.83,43,100,522,2,4,2,1,2,1
+INF,"Infeção, Prevenção e Controlo",Saúde,Centro 1,47.77,Lower-middle,Low priority,2,1,1,3,3,78.81,100.0,100.0,78.81,100.0,100.0,80.77,100.0,100.0,71.67,89.53,26,60,258,1,2,3,1,1,1
+EXC,Excel Aplicado à Gestão,Informática,Centro 3,47.18,Lower-middle,Low priority,4,0,1,4,5,94.87,94.87,100.0,95.59,95.59,100.0,94.87,94.87,100.0,92.74,99.85,78,124,677,3,2,4,1,1,1
+HCP,HACCP Aplicado,Alimentar,Centro 4,46.93,Lower-middle,Low priority,2,0,1,2,3,95.63,95.63,99.04,95.63,95.63,99.04,100.0,100.0,100.0,96.55,94.26,12,58,209,1,2,3,0,1,2
+HOT,Housekeeping e Operações Hoteleiras,Turismo,Centro 1,46.42,Lower-middle,Low priority,3,0,1,3,4,94.83,94.83,100.0,94.83,94.83,100.0,100.0,100.0,100.0,92.41,98.47,29,79,393,1,4,2,0,1,1
+SST,Saúde e Segurança no Trabalho,Segurança,Centro 2,46.24,Lower-middle,Low priority,4,0,1,4,5,95.97,95.97,100.0,95.97,95.97,100.0,96.36,96.36,100.0,93.65,99.44,55,126,534,2,3,3,1,1,1
+INF,"Infeção, Prevenção e Controlo",Saúde,Centro 4,45.58,Lower-middle,Low priority,2,1,1,3,3,87.8,99.54,99.54,95.48,99.54,99.54,87.8,100.0,100.0,95.56,95.38,41,45,346,2,2,4,1,1,3
+EMP,Empilhadores e Movimentação de Cargas,Segurança,Centro 5,45.5,Lower-middle,Low priority,2,1,1,3,3,83.33,100.0,100.0,85.21,100.0,100.0,83.33,100.0,100.0,79.03,94.47,18,62,253,2,2,2,1,1,1
+FOR,Formação Pedagógica Inicial de Formadores,Formação,Centro 1,45.2,Lower-middle,Low priority,4,1,1,5,5,82.61,99.9,99.9,95.61,99.9,99.9,82.61,100.0,100.0,96.69,94.0,69,151,1249,3,3,4,1,1,2
+TUR,Atendimento Turístico,Turismo,Centro 4,44.88,Lower-middle,Low priority,2,1,1,3,3,78.57,100.0,100.0,79.65,100.0,100.0,78.57,100.0,100.0,79.41,80.0,14,68,235,1,2,2,1,1,1
+ING,Inglês Profissional,Línguas,Centro 3,43.74,Lower-middle,Low priority,4,0,1,4,5,98.16,98.16,100.0,98.16,98.16,100.0,100.0,100.0,100.0,97.32,99.43,65,149,705,2,4,4,0,1,1
+LOG,Logística e Gestão de Armazém,Logística,Centro 3,43.72,Lower-middle,Low priority,4,1,1,5,5,81.25,100.0,100.0,100.0,100.0,100.0,81.25,100.0,100.0,100.0,100.0,16,114,387,3,3,3,1,0,0
+SST,Saúde e Segurança no Trabalho,Segurança,Centro 3,42.26,Lower-middle,Low priority,4,0,1,4,5,95.16,95.16,100.0,99.84,99.84,100.0,95.16,95.16,100.0,100.0,99.59,62,98,490,4,3,4,1,0,1
+HAC,Higiene e Segurança Alimentar,Alimentar,Centro 4,41.51,Lower-middle,Low priority,2,0,1,2,3,93.11,93.11,100.0,93.11,93.11,100.0,100.0,100.0,100.0,90.48,97.07,27,63,239,1,2,2,0,1,1
+HAC,Higiene e Segurança Alimentar,Alimentar,Centro 3,38.86,Lower-middle,Low priority,4,0,1,4,5,98.11,98.11,99.71,98.11,98.11,99.71,100.0,100.0,100.0,98.28,97.85,25,58,279,2,3,4,0,1,2
+EMP,Empilhadores e Movimentação de Cargas,Segurança,Centro 4,38.39,Lower-middle,Low priority,4,0,1,4,5,90.0,90.0,100.0,100.0,100.0,100.0,90.0,90.0,100.0,100.0,100.0,20,58,286,4,3,3,1,0,0
+SCI,Segurança Contra Incêndios,Segurança,Centro 2,37.71,Lower-middle,Low priority,2,1,1,3,3,87.5,99.64,99.64,96.96,99.64,99.64,87.5,100.0,100.0,97.62,95.96,16,42,223,2,2,3,1,1,2
+HCP,HACCP Aplicado,Alimentar,Centro 1,37.34,Lower-middle,Low priority,4,0,1,4,5,98.26,98.26,99.13,98.26,98.26,99.13,100.0,100.0,100.0,97.1,100.0,21,69,279,1,3,2,0,2,0
+PRO,Gestão de Projetos,Gestão,Centro 3,35.23,Lower-middle,Low priority,4,0,1,4,5,92.38,92.38,99.33,92.38,92.38,99.33,100.0,100.0,100.0,87.64,99.48,32,89,387,2,4,4,0,2,1
+EMP,Empilhadores e Movimentação de Cargas,Segurança,Centro 2,34.84,Lower-middle,Low priority,2,1,1,3,3,84.38,100.0,100.0,90.56,100.0,100.0,84.38,100.0,100.0,89.58,92.02,32,48,213,1,2,2,1,1,1
+PRO,Gestão de Projetos,Gestão,Centro 5,33.91,Lower-middle,Low priority,4,0,1,4,5,96.54,96.54,100.0,96.54,96.54,100.0,100.0,100.0,100.0,95.0,98.86,39,120,437,2,3,2,0,1,1
+GES,Gestão de Equipas,Gestão,Centro 5,31.92,Lower-middle,Low priority,4,0,1,4,5,98.14,98.14,99.76,98.14,98.14,99.76,100.0,100.0,100.0,97.7,98.8,62,87,333,3,3,4,0,1,2
+SCI,Segurança Contra Incêndios,Segurança,Centro 5,31.79,Lower-middle,Low priority,2,0,1,2,3,95.54,95.54,100.0,95.54,95.54,100.0,100.0,100.0,100.0,92.86,99.57,11,42,230,1,2,2,0,1,1
+HCP,HACCP Aplicado,Alimentar,Centro 3,31.5,Lower-middle,Low priority,4,0,1,4,5,97.96,97.96,100.0,97.96,97.96,100.0,100.0,100.0,100.0,96.83,99.67,16,63,299,1,2,3,0,1,1
+TUR,Atendimento Turístico,Turismo,Centro 1,30.3,Lower-middle,Low priority,2,0,1,2,3,96.25,96.25,99.84,96.25,96.25,99.84,96.55,96.55,100.0,100.0,90.62,29,49,256,2,1,3,1,0,2
+SOC,Socorrismo Básico,Saúde e Segurança,Centro 5,25.9,Lower-middle,Low priority,2,0,1,2,3,98.76,98.76,100.0,98.76,98.76,100.0,100.0,100.0,100.0,100.0,96.91,30,38,259,2,1,2,0,0,1
+SOC,Socorrismo Básico,Saúde e Segurança,Centro 2,14.79,Low,Low priority,4,1,1,5,5,75.0,100.0,100.0,100.0,100.0,100.0,75.0,100.0,100.0,100.0,100.0,12,57,231,3,2,2,1,0,0
+LID,Liderança e Comunicação,Gestão,Centro 2,43.6,Lower-middle,Low priority,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,43,123,662,3,3,3,0,0,0
+MNT,Manutenção Industrial Básica,Manutenção,Centro 2,41.54,Lower-middle,Low priority,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,35,88,289,2,2,3,0,0,0
+EMP,Empilhadores e Movimentação de Cargas,Segurança,Centro 1,40.01,Lower-middle,Low priority,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,18,75,355,1,2,3,0,0,0
+PRI,Primeiros Socorros,Saúde e Segurança,Centro 5,38.98,Lower-middle,Low priority,4,0,0,4,4,99.14,99.14,99.14,99.14,99.14,99.14,100.0,100.0,100.0,98.57,100.0,37,70,291,2,4,3,0,1,0
+SEG,Segurança no Trabalho,Segurança,Centro 4,37.62,Lower-middle,Low priority,4,0,0,4,4,99.79,99.79,99.79,99.79,99.79,99.79,100.0,100.0,100.0,100.0,99.48,26,52,385,1,3,4,0,0,1
+PRI,Primeiros Socorros,Saúde e Segurança,Centro 2,36.99,Lower-middle,Low priority,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,28,63,302,2,3,3,0,0,0
+LOG,Logística e Gestão de Armazém,Logística,Centro 4,36.3,Lower-middle,Low priority,4,0,0,4,4,99.9,99.9,99.9,99.9,99.9,99.9,100.0,100.0,100.0,100.0,99.74,37,70,391,2,4,4,0,0,1
+ING,Inglês Profissional,Línguas,Centro 1,32.72,Lower-middle,Low priority,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,38,116,527,2,3,3,0,0,0
+VND,Vendas e Negociação,Comercial,Centro 1,31.56,Lower-middle,Low priority,4,0,0,4,4,99.83,99.83,99.83,99.83,99.83,99.83,100.0,100.0,100.0,100.0,99.57,49,67,466,2,2,3,0,0,1
+LID,Liderança e Comunicação,Gestão,Centro 1,31.23,Lower-middle,Low priority,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,51,128,434,2,3,2,0,0,0
+SOC,Socorrismo Básico,Saúde e Segurança,Centro 4,30.31,Lower-middle,Low priority,2,0,0,2,2,99.1,99.1,99.1,99.1,99.1,99.1,100.0,100.0,100.0,100.0,97.75,24,56,267,1,2,2,0,0,1
+INF,"Infeção, Prevenção e Controlo",Saúde,Centro 2,29.8,Lower-middle,Low priority,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,23,75,349,3,3,3,0,0,0
+SCI,Segurança Contra Incêndios,Segurança,Centro 4,29.3,Lower-middle,Low priority,2,0,0,2,2,99.0,99.0,99.0,99.0,99.0,99.0,100.0,100.0,100.0,100.0,97.51,12,24,201,2,2,3,0,0,1
+GES,Gestão de Equipas,Gestão,Centro 1,28.1,Lower-middle,Low priority,4,0,0,4,4,99.43,99.43,99.43,99.43,99.43,99.43,100.0,100.0,100.0,100.0,98.57,33,70,420,2,2,4,0,0,1
+HCP,HACCP Aplicado,Alimentar,Centro 2,27.68,Lower-middle,Low priority,4,0,0,4,4,99.84,99.84,99.84,99.84,99.84,99.84,100.0,100.0,100.0,100.0,99.6,23,60,248,2,2,3,0,0,1
+INF,"Infeção, Prevenção e Controlo",Saúde,Centro 5,26.8,Lower-middle,Low priority,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,32,59,286,3,2,3,0,0,0
+HAC,Higiene e Segurança Alimentar,Alimentar,Centro 2,24.62,Low,Low priority,5,0,0,5,5,99.63,99.63,99.63,99.63,99.63,99.63,100.0,100.0,100.0,100.0,99.08,23,47,325,2,3,3,0,0,1
+SCI,Segurança Contra Incêndios,Segurança,Centro 3,24.52,Low,Low priority,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,14,59,253,2,3,2,0,0,0
+ING,Inglês Profissional,Línguas,Centro 5,24.34,Low,Low priority,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,71,102,566,3,3,3,0,0,0
+EMP,Empilhadores e Movimentação de Cargas,Segurança,Centro 3,22.82,Low,Low priority,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,29,62,283,2,3,2,0,0,0
+SOC,Socorrismo Básico,Saúde e Segurança,Centro 1,22.72,Low,Low priority,2,0,0,2,2,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,21,54,192,1,1,2,0,0,0
+VND,Vendas e Negociação,Comercial,Centro 3,21.93,Low,Low priority,4,0,0,4,4,99.31,99.31,99.31,99.31,99.31,99.31,100.0,100.0,100.0,98.85,100.0,37,87,371,2,3,3,0,1,0
+HOT,Housekeeping e Operações Hoteleiras,Turismo,Centro 4,21.62,Low,Low priority,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,16,54,307,1,3,2,0,0,0
+TUR,Atendimento Turístico,Turismo,Centro 3,14.73,Low,Low priority,4,0,0,4,4,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,27,69,185,2,1,3,0,0,0

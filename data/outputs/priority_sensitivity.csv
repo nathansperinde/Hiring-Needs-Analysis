@@ -1,0 +1,121 @@
+course_id,course_name,course_area,local,baseline_priority_score,baseline_priority_level,baseline_priority_rank,scenario_count,priority_score_mean,priority_score_min,priority_score_max,priority_score_std,priority_level_stability_rate,high_priority_rate,best_scenario_rank,worst_scenario_rank,maximum_absolute_rank_change,priority_score_range,sensitivity_status
+HCP,HACCP Aplicado,Alimentar,Centro 5,50.65,Upper-middle,58,36,50.26,48.73,52.73,1.21,47.22,0.0,51,60,7,4.0,High sensitivity
+HAC,Higiene e Segurança Alimentar,Alimentar,Centro 2,24.62,Low,111,36,24.71,21.79,27.69,2.02,52.78,0.0,109,115,4,5.9,High sensitivity
+SCI,Segurança Contra Incêndios,Segurança,Centro 3,24.52,Low,112,36,24.46,22.04,27.24,1.72,52.78,0.0,111,115,3,5.2,High sensitivity
+GES,Gestão de Equipas,Gestão,Centro 3,24.42,Low,113,36,24.13,19.7,30.43,2.95,55.56,0.0,108,117,5,10.73,High sensitivity
+SOC,Socorrismo Básico,Saúde e Segurança,Centro 5,25.9,Lower-middle,110,36,25.71,22.45,30.4,2.22,55.56,0.0,107,114,4,7.95,High sensitivity
+GER,Geriatria e Apoio ao Idoso,Saúde,Centro 5,50.94,Upper-middle,57,36,50.71,47.49,53.64,1.75,55.56,0.0,52,68,11,6.15,High sensitivity
+EXC,Excel Aplicado à Gestão,Informática,Centro 2,73.87,Upper-middle,12,36,74.07,70.7,76.5,1.63,55.56,44.44,12,14,2,5.8,High sensitivity
+HOT,Housekeeping e Operações Hoteleiras,Turismo,Centro 3,48.98,Lower-middle,60,36,48.66,45.63,52.33,2.11,58.33,0.0,53,70,10,6.7,High sensitivity
+SEG,Segurança no Trabalho,Segurança,Centro 2,48.43,Lower-middle,62,36,48.44,45.8,51.59,1.62,58.33,0.0,56,66,6,5.79,High sensitivity
+PYT,Introdução à Programação em Python,Informática,Centro 1,76.47,High,11,36,76.26,73.73,78.87,1.62,58.33,58.33,10,11,1,5.14,High sensitivity
+LID,Liderança e Comunicação,Gestão,Centro 5,49.78,Lower-middle,59,36,49.52,48.59,50.85,0.77,58.33,0.0,57,61,2,2.26,High sensitivity
+CYB,Cibersegurança Básica,Informática,Centro 4,72.81,Upper-middle,13,36,72.89,68.6,75.96,2.1,63.89,36.11,12,18,5,7.36,Moderate sensitivity
+SOC,Socorrismo Básico,Saúde e Segurança,Centro 1,22.72,Low,116,36,22.54,20.05,26.26,1.77,63.89,0.0,112,118,4,6.21,Moderate sensitivity
+INF,"Infeção, Prevenção e Controlo",Saúde,Centro 1,47.77,Lower-middle,64,36,47.59,44.72,50.21,1.72,63.89,0.0,58,73,9,5.49,Moderate sensitivity
+ING,Inglês Profissional,Línguas,Centro 2,52.0,Upper-middle,54,36,52.08,49.09,54.26,1.42,63.89,0.0,49,62,8,5.17,Moderate sensitivity
+GER,Geriatria e Apoio ao Idoso,Saúde,Centro 2,51.41,Upper-middle,56,36,51.46,49.94,52.54,0.73,63.89,0.0,54,60,4,2.6,Moderate sensitivity
+ING,Inglês Profissional,Línguas,Centro 5,24.34,Low,114,36,24.26,23.54,25.07,0.48,63.89,0.0,110,115,4,1.53,Moderate sensitivity
+PBI,Power BI e Visualização de Dados,Informática,Centro 4,72.37,Upper-middle,15,36,72.68,65.33,77.9,3.45,66.67,33.33,12,27,12,12.57,Moderate sensitivity
+CYB,Cibersegurança Básica,Informática,Centro 2,77.65,High,10,36,77.7,73.58,80.99,2.04,66.67,66.67,8,11,2,7.41,Moderate sensitivity
+EXC,Excel Aplicado à Gestão,Informática,Centro 4,77.84,High,9,36,78.0,74.21,80.69,1.78,66.67,66.67,7,10,2,6.48,Moderate sensitivity
+GER,Geriatria e Apoio ao Idoso,Saúde,Centro 1,52.47,Upper-middle,53,36,52.2,50.01,54.46,1.34,66.67,0.0,48,59,6,4.45,Moderate sensitivity
+INF,"Infeção, Prevenção e Controlo",Saúde,Centro 5,26.8,Lower-middle,109,36,26.99,25.07,29.12,1.27,66.67,0.0,107,111,2,4.05,Moderate sensitivity
+VND,Vendas e Negociação,Comercial,Centro 3,21.93,Low,117,36,21.79,20.1,23.74,1.17,66.67,0.0,115,118,2,3.64,Moderate sensitivity
+VND,Vendas e Negociação,Comercial,Centro 4,72.45,Upper-middle,14,36,72.44,70.57,74.12,1.1,66.67,33.33,12,17,3,3.55,Moderate sensitivity
+EMP,Empilhadores e Movimentação de Cargas,Segurança,Centro 3,22.82,Low,115,36,22.68,21.0,24.45,1.15,66.67,0.0,113,116,2,3.45,Moderate sensitivity
+MNT,Manutenção Industrial Básica,Manutenção,Centro 5,71.9,Upper-middle,16,36,71.81,70.16,73.44,1.04,66.67,33.33,14,16,2,3.28,Moderate sensitivity
+SEG,Segurança no Trabalho,Segurança,Centro 3,51.84,Upper-middle,55,36,52.06,50.67,53.82,0.91,66.67,0.0,47,57,8,3.15,Moderate sensitivity
+EXC,Excel Aplicado à Gestão,Informática,Centro 3,47.18,Lower-middle,65,36,47.4,46.35,48.64,0.67,66.67,0.0,60,71,6,2.29,Moderate sensitivity
+MNT,Manutenção Industrial Básica,Manutenção,Centro 3,48.74,Lower-middle,61,36,48.74,47.54,49.65,0.6,66.67,0.0,58,67,6,2.11,Moderate sensitivity
+HOT,Housekeeping e Operações Hoteleiras,Turismo,Centro 1,46.42,Lower-middle,67,36,46.35,45.55,47.56,0.57,66.67,0.0,66,70,3,2.01,Moderate sensitivity
+GES,Gestão de Equipas,Gestão,Centro 2,47.79,Lower-middle,63,36,47.52,46.69,48.36,0.54,66.67,0.0,61,67,4,1.67,Moderate sensitivity
+HAC,Higiene e Segurança Alimentar,Alimentar,Centro 1,53.06,Upper-middle,52,36,53.07,51.14,55.43,1.18,69.44,0.0,45,56,7,4.29,Moderate sensitivity
+HOT,Housekeeping e Operações Hoteleiras,Turismo,Centro 4,21.62,Low,118,36,21.63,19.6,23.85,1.37,69.44,0.0,116,118,2,4.25,Moderate sensitivity
+HCP,HACCP Aplicado,Alimentar,Centro 4,46.93,Lower-middle,66,36,47.01,44.69,48.83,1.27,69.44,0.0,62,74,8,4.14,Moderate sensitivity
+GES,Gestão de Equipas,Gestão,Centro 1,28.1,Lower-middle,107,36,27.99,25.93,30.03,1.51,69.44,0.0,104,110,3,4.1,Moderate sensitivity
+FOR,Formação Pedagógica Inicial de Formadores,Formação,Centro 3,77.96,High,8,36,77.75,74.12,81.15,2.42,72.22,72.22,7,11,3,7.03,Moderate sensitivity
+HCP,HACCP Aplicado,Alimentar,Centro 2,27.68,Lower-middle,108,36,27.65,24.83,30.69,2.11,72.22,0.0,105,110,3,5.86,Moderate sensitivity
+SOC,Socorrismo Básico,Saúde e Segurança,Centro 3,53.74,Upper-middle,51,36,53.38,51.14,55.7,1.46,72.22,0.0,47,57,6,4.56,Moderate sensitivity
+SST,Saúde e Segurança no Trabalho,Segurança,Centro 2,46.24,Lower-middle,68,36,46.34,44.79,48.05,1.14,72.22,0.0,64,73,5,3.26,Moderate sensitivity
+VND,Vendas e Negociação,Comercial,Centro 2,53.95,Upper-middle,50,36,54.12,52.67,55.7,0.99,72.22,0.0,42,52,8,3.03,Moderate sensitivity
+MNT,Manutenção Industrial Básica,Manutenção,Centro 1,78.78,High,7,36,78.47,75.17,80.99,1.89,75.0,75.0,5,9,2,5.82,Moderate sensitivity
+HOT,Housekeeping e Operações Hoteleiras,Turismo,Centro 5,70.82,Upper-middle,17,36,70.68,68.4,72.95,1.45,75.0,25.0,14,23,6,4.55,Moderate sensitivity
+INF,"Infeção, Prevenção e Controlo",Saúde,Centro 4,45.58,Lower-middle,69,36,45.55,43.51,47.45,1.2,75.0,0.0,67,79,10,3.94,Moderate sensitivity
+INF,"Infeção, Prevenção e Controlo",Saúde,Centro 3,70.55,Upper-middle,19,36,70.42,68.91,71.93,0.96,75.0,25.0,15,22,4,3.02,Moderate sensitivity
+PBI,Power BI e Visualização de Dados,Informática,Centro 3,70.58,Upper-middle,18,36,70.56,66.94,73.44,1.78,77.78,22.22,15,22,4,6.5,Moderate sensitivity
+PBI,Power BI e Visualização de Dados,Informática,Centro 5,70.26,Upper-middle,20,36,70.36,69.17,71.59,0.82,77.78,22.22,17,21,3,2.42,Moderate sensitivity
+PYT,Introdução à Programação em Python,Informática,Centro 5,45.3,Lower-middle,71,36,45.25,44.67,45.73,0.34,77.78,0.0,68,74,3,1.06,Moderate sensitivity
+SCI,Segurança Contra Incêndios,Segurança,Centro 4,29.3,Lower-middle,106,36,29.21,26.1,33.52,2.08,80.56,0.0,100,110,6,7.42,Stable
+SOC,Socorrismo Básico,Saúde e Segurança,Centro 4,30.31,Lower-middle,103,36,30.05,27.71,33.88,1.89,80.56,0.0,97,107,6,6.17,Stable
+FOR,Formação Pedagógica Inicial de Formadores,Formação,Centro 5,55.0,Upper-middle,48,36,54.71,51.69,57.75,1.88,80.56,0.0,43,55,7,6.06,Stable
+TUR,Atendimento Turístico,Turismo,Centro 2,55.05,Upper-middle,46,36,54.84,52.99,56.56,1.18,80.56,0.0,43,51,5,3.57,Stable
+INF,"Infeção, Prevenção e Controlo",Saúde,Centro 2,29.8,Lower-middle,105,36,30.04,28.61,32.05,1.03,80.56,0.0,99,106,6,3.44,Stable
+EXC,Excel Aplicado à Gestão,Informática,Centro 5,45.07,Lower-middle,73,36,45.08,43.65,46.99,0.97,80.56,0.0,66,77,7,3.34,Stable
+TUR,Atendimento Turístico,Turismo,Centro 1,30.3,Lower-middle,104,36,30.07,27.35,34.13,1.91,83.33,0.0,97,106,7,6.78,Stable
+EMP,Empilhadores e Movimentação de Cargas,Segurança,Centro 5,45.5,Lower-middle,70,36,45.22,42.85,48.15,1.68,83.33,0.0,65,80,10,5.3,Stable
+VND,Vendas e Negociação,Comercial,Centro 5,55.04,Upper-middle,47,36,54.85,52.11,57.27,1.51,83.33,0.0,42,54,7,5.16,Stable
+FOR,Formação Pedagógica Inicial de Formadores,Formação,Centro 1,45.2,Lower-middle,72,36,44.91,42.41,46.78,1.33,83.33,0.0,64,83,11,4.37,Stable
+PRI,Primeiros Socorros,Saúde e Segurança,Centro 4,54.86,Upper-middle,49,36,54.91,53.02,57.09,1.25,83.33,0.0,42,53,7,4.07,Stable
+PBI,Power BI e Visualização de Dados,Informática,Centro 2,80.72,High,4,36,80.9,74.53,85.69,3.05,86.11,86.11,2,8,4,11.16,Robust high priority
+HAC,Higiene e Segurança Alimentar,Alimentar,Centro 5,44.54,Lower-middle,76,36,44.94,41.14,48.82,2.26,86.11,0.0,60,82,16,7.68,Stable
+FOR,Formação Pedagógica Inicial de Formadores,Formação,Centro 4,55.36,Upper-middle,45,36,55.3,51.98,58.28,1.86,86.11,0.0,42,54,9,6.3,Stable
+PRO,Gestão de Projetos,Gestão,Centro 1,30.41,Lower-middle,102,36,30.21,28.4,32.82,1.26,86.11,0.0,102,105,3,4.42,Stable
+CYB,Cibersegurança Básica,Informática,Centro 1,80.42,High,6,36,80.37,78.51,82.1,1.1,86.11,86.11,4,6,2,3.59,Robust high priority
+PYT,Introdução à Programação em Python,Informática,Centro 3,55.47,Upper-middle,44,36,55.28,54.0,56.54,0.76,86.11,0.0,44,47,3,2.54,Stable
+PYT,Introdução à Programação em Python,Informática,Centro 2,80.53,High,5,36,80.4,76.44,84.0,2.19,88.89,88.89,4,6,1,7.56,Robust high priority
+TUR,Atendimento Turístico,Turismo,Centro 4,44.88,Lower-middle,74,36,44.7,41.72,49.26,2.33,88.89,0.0,61,82,13,7.54,Stable
+FOR,Formação Pedagógica Inicial de Formadores,Formação,Centro 2,68.9,Upper-middle,22,36,68.79,65.34,72.12,2.19,88.89,11.11,18,26,4,6.78,Stable
+HCP,HACCP Aplicado,Alimentar,Centro 3,31.5,Lower-middle,100,36,31.54,29.01,34.09,1.91,88.89,0.0,94,105,6,5.08,Stable
+SCI,Segurança Contra Incêndios,Segurança,Centro 5,31.79,Lower-middle,98,36,31.48,29.0,35.34,1.79,91.67,0.0,94,102,4,6.34,Stable
+GER,Geriatria e Apoio ao Idoso,Saúde,Centro 4,69.1,Upper-middle,21,36,68.84,66.48,71.3,1.48,91.67,8.33,20,24,3,4.82,Stable
+MNT,Manutenção Industrial Básica,Manutenção,Centro 4,44.64,Lower-middle,75,36,44.54,43.9,45.58,0.54,91.67,0.0,70,77,5,1.68,Stable
+LID,Liderança e Comunicação,Gestão,Centro 2,43.6,Lower-middle,80,36,43.49,41.67,46.11,1.24,94.44,0.0,67,81,13,4.44,Stable
+VND,Vendas e Negociação,Comercial,Centro 1,31.56,Lower-middle,99,36,31.67,29.77,33.74,1.4,94.44,0.0,95,103,4,3.97,Stable
+PYT,Introdução à Programação em Python,Informática,Centro 4,56.3,Upper-middle,43,36,55.95,53.74,57.3,1.01,94.44,0.0,43,49,6,3.56,Stable
+LID,Liderança e Comunicação,Gestão,Centro 1,31.23,Lower-middle,101,36,31.2,29.89,32.67,0.97,94.44,0.0,98,104,3,2.78,Stable
+GER,Geriatria e Apoio ao Idoso,Saúde,Centro 3,83.46,High,1,36,83.41,79.14,87.12,2.28,97.22,97.22,1,3,2,7.98,Robust high priority
+ING,Inglês Profissional,Línguas,Centro 4,58.62,Upper-middle,41,36,58.4,54.81,61.46,1.97,97.22,0.0,37,44,4,6.65,Stable
+GES,Gestão de Equipas,Gestão,Centro 4,67.53,Upper-middle,25,36,67.39,64.02,70.53,1.93,97.22,2.78,20,32,7,6.51,Stable
+CYB,Cibersegurança Básica,Informática,Centro 5,56.61,Upper-middle,42,36,56.47,54.07,58.53,1.3,97.22,0.0,41,49,7,4.46,Stable
+LOG,Logística e Gestão de Armazém,Logística,Centro 3,43.72,Lower-middle,79,36,43.8,42.09,45.79,1.03,97.22,0.0,69,79,10,3.7,Stable
+LOG,Logística e Gestão de Armazém,Logística,Centro 5,81.44,High,3,36,81.4,79.58,83.07,1.06,97.22,97.22,2,6,3,3.49,Robust high priority
+EMP,Empilhadores e Movimentação de Cargas,Segurança,Centro 2,34.84,Lower-middle,94,36,34.65,30.35,40.77,2.95,100.0,0.0,84,99,10,10.42,Moderate sensitivity
+TUR,Atendimento Turístico,Turismo,Centro 3,14.73,Low,120,36,14.62,11.66,18.33,1.91,100.0,0.0,119,120,1,6.67,Stable
+PBI,Power BI e Visualização de Dados,Informática,Centro 1,61.62,Upper-middle,37,36,61.7,58.26,64.11,1.71,100.0,0.0,33,41,4,5.85,Stable
+SOC,Socorrismo Básico,Saúde e Segurança,Centro 2,14.79,Low,119,36,14.77,12.16,17.86,1.65,100.0,0.0,119,120,1,5.7,Stable
+HAC,Higiene e Segurança Alimentar,Alimentar,Centro 4,41.51,Lower-middle,83,36,41.65,39.08,44.65,1.57,100.0,0.0,73,85,10,5.57,Stable
+SCI,Segurança Contra Incêndios,Segurança,Centro 2,37.71,Lower-middle,88,36,37.58,35.49,40.67,1.48,100.0,0.0,85,92,4,5.18,Stable
+CYB,Cibersegurança Básica,Informática,Centro 3,65.82,Upper-middle,28,36,65.91,63.16,67.86,1.31,100.0,0.0,26,31,3,4.7,Stable
+PRI,Primeiros Socorros,Saúde e Segurança,Centro 2,36.99,Lower-middle,91,36,37.34,35.46,40.1,1.39,100.0,0.0,88,93,3,4.64,Stable
+PRO,Gestão de Projetos,Gestão,Centro 2,63.16,Upper-middle,33,36,63.13,60.76,65.34,1.49,100.0,0.0,30,36,3,4.58,Stable
+SST,Saúde e Segurança no Trabalho,Segurança,Centro 5,63.98,Upper-middle,31,36,64.07,61.88,66.25,1.34,100.0,0.0,27,36,5,4.37,Stable
+HCP,HACCP Aplicado,Alimentar,Centro 1,37.34,Lower-middle,90,36,37.62,35.85,40.13,1.35,100.0,0.0,87,92,3,4.28,Stable
+TUR,Atendimento Turístico,Turismo,Centro 5,62.71,Upper-middle,35,36,62.41,60.31,64.42,1.21,100.0,0.0,32,39,4,4.11,Stable
+HOT,Housekeeping e Operações Hoteleiras,Turismo,Centro 2,66.33,Upper-middle,27,36,66.32,64.26,68.26,1.39,100.0,0.0,25,31,4,4.0,Stable
+LID,Liderança e Comunicação,Gestão,Centro 4,62.18,Upper-middle,36,36,62.18,60.18,63.94,1.14,100.0,0.0,33,39,3,3.76,Stable
+HAC,Higiene e Segurança Alimentar,Alimentar,Centro 3,38.86,Lower-middle,86,36,39.09,37.38,41.14,1.13,100.0,0.0,85,87,1,3.76,Stable
+PRI,Primeiros Socorros,Saúde e Segurança,Centro 1,59.52,Upper-middle,40,36,59.77,58.05,61.78,1.09,100.0,0.0,34,41,6,3.73,Stable
+SST,Saúde e Segurança no Trabalho,Segurança,Centro 3,42.26,Lower-middle,81,36,42.35,40.7,44.2,0.98,100.0,0.0,75,83,6,3.5,Stable
+PRO,Gestão de Projetos,Gestão,Centro 4,60.42,Upper-middle,38,36,60.24,58.3,61.76,1.11,100.0,0.0,37,40,2,3.46,Stable
+PRI,Primeiros Socorros,Saúde e Segurança,Centro 5,38.98,Lower-middle,85,36,39.15,37.47,40.77,1.01,100.0,0.0,84,88,3,3.3,Stable
+SST,Saúde e Segurança no Trabalho,Segurança,Centro 1,83.3,High,2,36,83.17,81.45,84.73,1.07,100.0,100.0,1,3,1,3.28,Robust high priority
+PRI,Primeiros Socorros,Saúde e Segurança,Centro 3,67.03,Upper-middle,26,36,67.17,65.68,68.82,0.94,100.0,0.0,22,29,4,3.14,Stable
+SEG,Segurança no Trabalho,Segurança,Centro 4,37.62,Lower-middle,89,36,37.7,36.19,39.22,1.05,100.0,0.0,88,92,3,3.03,Stable
+LOG,Logística e Gestão de Armazém,Logística,Centro 4,36.3,Lower-middle,92,36,36.28,34.92,37.81,0.98,100.0,0.0,91,94,2,2.89,Stable
+PRO,Gestão de Projetos,Gestão,Centro 3,35.23,Lower-middle,93,36,34.98,33.47,36.08,0.72,100.0,0.0,90,96,3,2.61,Stable
+LOG,Logística e Gestão de Armazém,Logística,Centro 2,68.42,Upper-middle,23,36,68.43,67.03,69.61,0.75,100.0,0.0,19,25,4,2.58,Stable
+EXC,Excel Aplicado à Gestão,Informática,Centro 1,65.76,Upper-middle,29,36,66.04,64.86,67.37,0.74,100.0,0.0,25,29,4,2.51,Stable
+LOG,Logística e Gestão de Armazém,Logística,Centro 1,60.06,Upper-middle,39,36,60.15,59.01,61.46,0.77,100.0,0.0,36,40,3,2.45,Stable
+SCI,Segurança Contra Incêndios,Segurança,Centro 1,62.98,Upper-middle,34,36,63.04,61.99,64.28,0.66,100.0,0.0,30,36,4,2.29,Stable
+EMP,Empilhadores e Movimentação de Cargas,Segurança,Centro 4,38.39,Lower-middle,87,36,38.47,37.36,39.64,0.77,100.0,0.0,86,89,2,2.28,Stable
+PRO,Gestão de Projetos,Gestão,Centro 5,33.91,Lower-middle,95,36,33.62,32.58,34.84,0.67,100.0,0.0,94,97,2,2.26,Stable
+EMP,Empilhadores e Movimentação de Cargas,Segurança,Centro 1,40.01,Lower-middle,84,36,40.09,38.95,41.19,0.73,100.0,0.0,83,87,3,2.24,Stable
+ING,Inglês Profissional,Línguas,Centro 3,43.74,Lower-middle,78,36,43.59,42.47,44.58,0.61,100.0,0.0,74,82,4,2.11,Stable
+SEG,Segurança no Trabalho,Segurança,Centro 5,68.1,Upper-middle,24,36,68.18,67.22,69.22,0.58,100.0,0.0,19,26,5,2.0,Stable
+MNT,Manutenção Industrial Básica,Manutenção,Centro 2,41.54,Lower-middle,82,36,41.74,41.17,42.83,0.47,100.0,0.0,81,83,1,1.66,Stable
+SEG,Segurança no Trabalho,Segurança,Centro 1,65.39,Upper-middle,30,36,65.22,64.4,65.95,0.49,100.0,0.0,25,32,5,1.55,Stable
+GES,Gestão de Equipas,Gestão,Centro 5,31.92,Lower-middle,97,36,31.72,31.12,32.56,0.46,100.0,0.0,96,105,8,1.44,Stable
+ING,Inglês Profissional,Línguas,Centro 1,32.72,Lower-middle,96,36,32.53,31.92,33.15,0.39,100.0,0.0,95,103,7,1.23,Stable
+LID,Liderança e Comunicação,Gestão,Centro 3,44.09,Lower-middle,77,36,43.95,43.51,44.48,0.31,100.0,0.0,74,78,3,0.97,Stable
+SST,Saúde e Segurança no Trabalho,Segurança,Centro 4,63.92,Upper-middle,32,36,63.99,63.66,64.31,0.19,100.0,0.0,30,34,2,0.65,Stable
